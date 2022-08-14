@@ -1,0 +1,9 @@
+<animatedImage fps="20.00" blendframes="0">
+    <frame source="location_venice_workshop_1797_aunt_notice_00.png" ></frame>
+	<frame source="location_venice_workshop_1797_aunt_notice_01.png" ></frame>
+	<frame source="location_venice_workshop_1797_aunt_notice_02.png" ></frame>
+	<frame source="location_venice_workshop_1797_aunt_notice_03.png" ></frame>
+	<frame source="location_venice_workshop_1797_aunt_notice_04.png" ></frame>
+	<frame source="location_venice_workshop_1797_aunt_notice_05.png" ></frame>
+	<frame source="location_venice_workshop_1797_aunt_notice_06.png" ></frame>
+</animatedImage>

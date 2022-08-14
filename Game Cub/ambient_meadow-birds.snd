@@ -1,0 +1,7 @@
+<!-- Used in Meadow. Sounds of birds.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true" Ambient="true">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.700" FileName="ambient_meadow-birds.wav"></CSampleFile>
+        </CSample>
+</Sound>

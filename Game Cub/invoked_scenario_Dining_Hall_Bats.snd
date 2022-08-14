@@ -1,0 +1,12 @@
+<!-- Used in Dining Hall. Sound bats suddenly flying through the door that player just opened. Combined with a dramatic sound. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSoundContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.900" Volume="1.100" FileName="invoked_scenario_Dining_Hall_Bats.wav"></CSampleFile>
+        </CSample>
+		<CSample>
+		   <CSampleFile Pan="0.000" Pitch="0.900" Volume="1.700" FileName="dramatic_sound_1.wav"></CSampleFile>
+        </CSample>
+    </CSoundContainer>
+</Sound>

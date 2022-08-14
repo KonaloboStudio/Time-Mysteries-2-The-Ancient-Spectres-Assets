@@ -1,0 +1,7 @@
+<!-- Used in Governess House. Opening box with rattle. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Governess_Box_Open.wav"></CSampleFile>
+    </CSample>
+</Sound>

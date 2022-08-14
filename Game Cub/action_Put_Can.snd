@@ -1,0 +1,7 @@
+<!-- Used in Machine Room 1796 . Sound of putting can. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="0.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="placeholder.wav"></CSampleFile>
+    </CSample>
+</Sound>

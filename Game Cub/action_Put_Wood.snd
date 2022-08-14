@@ -1,0 +1,7 @@
+<!-- Used in Machine Room 1830 . Sound of putting wood. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="action_Put_Wood.wav"></CSampleFile>
+    </CSample>
+</Sound>

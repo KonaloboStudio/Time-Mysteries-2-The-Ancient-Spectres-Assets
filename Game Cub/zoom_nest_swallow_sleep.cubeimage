@@ -1,0 +1,5 @@
+<animatedImage fps="8.00" blendframes="0">
+	<frame source="zoom_nest_swallow_move_1.png"></frame>
+	<frame source="zoom_nest_swallow_move_1a.png"></frame>
+	<frame source="zoom_nest_swallow_move_1b.png"></frame>
+</animatedImage>

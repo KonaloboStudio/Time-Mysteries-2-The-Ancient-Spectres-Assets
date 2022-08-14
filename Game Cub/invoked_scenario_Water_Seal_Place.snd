@@ -1,0 +1,7 @@
+<!-- Sounds for cutscene after plaing water seal. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.200" FileName="invoked_scenario_Water_Seal_Place.wav"></CSampleFile>
+        </CSample>
+</Sound>

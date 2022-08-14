@@ -1,0 +1,7 @@
+<!-- Used in Oak Study. Sound of cleaning window with a rag. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.200" FileName="action_Oak_Study_rad_use.wav"></CSampleFile>
+    </CSample>
+</Sound>

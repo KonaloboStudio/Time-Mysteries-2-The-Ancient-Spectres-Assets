@@ -1,0 +1,18 @@
+<!-- Used in main menu and zooms. Sound of small electric arc that randomly appears on the buttons. -->
+
+<Sound Pan="0.0" Pitch="1.000" Volume="1.0" Looped="false" Ambient="true">
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="0.800" Volume="0.500" FadeInTime="0" FadeOutTime="0" FileName="ambient_electric_arc_3.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="1.100" Volume="0.500" FadeInTime="0" FadeOutTime="0" FileName="ambient_electric_arc_4.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="1.000" Volume="0.400" FadeInTime="0" FadeOutTime="0" FileName="ambient_electric_arc_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="1.000" Volume="0.500" FadeInTime="0" FadeOutTime="0" FileName="ambient_electric_arc_2.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

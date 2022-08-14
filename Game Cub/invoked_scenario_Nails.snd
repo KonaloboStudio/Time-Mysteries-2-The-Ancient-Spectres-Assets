@@ -1,0 +1,15 @@
+<!-- Used in Stairs Hall 1796 . Sound of nail's hit. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="1.000" Volume="1.000" FadeInTime="0" FadeOutTime="0" FileName="invoked_scenario_Nails_2.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="1.000" Volume="1.000" FadeInTime="0" FadeOutTime="0" FileName="invoked_scenario_Nails_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="1.000" Volume="1.000" FadeInTime="0" FadeOutTime="0" FileName="invoked_scenario_Nails_3.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

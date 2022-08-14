@@ -1,0 +1,9 @@
+<animatedImage fps="3.00" blendframes="0">
+	<frame source="zoom_venice_garden_ground_anim_01.png" ></frame>
+	<frame source="zoom_venice_garden_ground_anim_02.png" ></frame>
+	<frame source="zoom_venice_garden_ground_anim_03.png" ></frame>
+	<frame source="zoom_venice_garden_ground_anim_04.png" ></frame>
+	<frame source="zoom_venice_garden_ground_anim_05.png" ></frame>
+	<frame source="zoom_venice_garden_ground_anim_06.png" ></frame>
+	<frame source="zoom_venice_garden_ground_anim_07.png" ></frame>
+</animatedImage>

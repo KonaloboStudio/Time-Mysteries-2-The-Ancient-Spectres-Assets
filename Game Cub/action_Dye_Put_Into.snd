@@ -1,0 +1,7 @@
+<!-- Used in Oak Hall. Sound of dye put into the bowl. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.300" Volume="0.900" FileName="action_Dye_Put_Into.wav"></CSampleFile>
+    </CSample>
+</Sound>

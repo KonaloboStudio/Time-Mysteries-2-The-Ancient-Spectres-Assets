@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="HOME_CABINET_ZOOM_MISSING_KNOB_COMM.wav"></CSampleFile>
+    </CSample>
+</Sound>

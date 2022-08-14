@@ -1,0 +1,12 @@
+<!-- Used in various places. Played when something spooky happens eg. statue moves or painting flashes its eyes. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000">
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="1.100" Volume="0.900" FadeInTime="0" FadeOutTime="0" FileName="invoked_scenario_Spooky_sound.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="1.100" Volume="0.900" FadeInTime="0" FadeOutTime="0" FileName="invoked_scenario_Spooky_sound_2.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

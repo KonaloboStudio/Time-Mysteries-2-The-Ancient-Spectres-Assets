@@ -1,0 +1,5 @@
+<animatedImage fps="15.00" blendframes="0">
+	<frame source="fire_eyes_anim_02_frame_1.png" ></frame>
+	<frame source="fire_eyes_anim_02_frame_2.png" ></frame>
+	<frame source="fire_eyes_anim_02_frame_3.png" ></frame>
+</animatedImage>

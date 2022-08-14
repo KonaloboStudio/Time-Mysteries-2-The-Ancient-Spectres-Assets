@@ -1,0 +1,6 @@
+<animatedImage fps="12.00" blendframes="0">
+	<frame source="oak_hall_seal_zoom_bad_touch_01.png"></frame>
+	<frame source="oak_hall_seal_zoom_bad_touch_02.png"></frame>
+	<frame source="oak_hall_seal_zoom_bad_touch_03.png"></frame>
+	<frame source="oak_hall_seal_zoom_bad_touch_04.png"></frame>
+</animatedImage>

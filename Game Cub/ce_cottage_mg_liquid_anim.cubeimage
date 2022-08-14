@@ -1,0 +1,12 @@
+<animatedImage fps="2.00" blendframes="0">
+	<frame source="ce_cottage_mg_liquid_1.png" ></frame>
+	<frame source="ce_cottage_mg_liquid_2.png" ></frame>
+	<frame source="ce_cottage_mg_liquid_3.png" ></frame>
+	<frame source="ce_cottage_mg_liquid_4.png" ></frame>
+	<frame source="ce_cottage_mg_liquid_5.png" ></frame>
+	<frame source="ce_cottage_mg_liquid_6.png" ></frame>
+	<frame source="ce_cottage_mg_liquid_7.png" ></frame>
+	<frame source="ce_cottage_mg_liquid_8.png" ></frame>
+	<frame source="ce_cottage_mg_liquid_9.png" ></frame>
+	<frame source="ce_cottage_mg_liquid_10.png" ></frame>
+</animatedImage>

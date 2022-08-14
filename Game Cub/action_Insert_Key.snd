@@ -1,0 +1,7 @@
+<!-- Used in Dining Hall. Universal sound of key being inserted into keyhole. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.200" Volume="0.900" FileName="action_Insert_Key.wav"></CSampleFile>
+    </CSample>
+</Sound>

@@ -1,0 +1,7 @@
+<!-- Used in Dining Hall. Used when the player lights candles with matches. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Dining_Hall_Matches.wav"></CSampleFile>
+    </CSample>
+</Sound>

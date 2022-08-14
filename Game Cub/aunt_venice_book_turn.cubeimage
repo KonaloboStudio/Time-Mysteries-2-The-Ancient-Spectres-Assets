@@ -1,0 +1,11 @@
+<animatedImage fps="30.00" blendframes="0">
+    <frame source="location_venice_workshop_1797_book_flip_0.png" ></frame>
+	<frame source="location_venice_workshop_1797_book_flip_1.png" ></frame>
+	<frame source="location_venice_workshop_1797_book_flip_2.png" ></frame>
+	<frame source="location_venice_workshop_1797_book_flip_3.png" ></frame>
+	<frame source="location_venice_workshop_1797_book_flip_4.png" ></frame>
+	<frame source="location_venice_workshop_1797_book_flip_5.png" ></frame>
+	<frame source="location_venice_workshop_1797_book_flip_6.png" ></frame>
+	<frame source="location_venice_workshop_1797_book_flip_7.png" ></frame>
+	<frame source="location_venice_workshop_1797_book_flip_8.png" ></frame>
+</animatedImage>

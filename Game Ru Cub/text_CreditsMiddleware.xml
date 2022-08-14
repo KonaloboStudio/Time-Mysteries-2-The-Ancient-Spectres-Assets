@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Jarosław Kulik</Author>
+  <LastAuthor>Paweł Słabiński</LastAuthor>
+  <Created>2015-10-13T08:36:31Z</Created>
+  <LastSaved>2015-10-14T08:43:42Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12435</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="238" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Dictionary">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="186"/>
+   <Column ss:AutoFitWidth="0" ss:Width="684.75"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CREDITS_COPYRIGHTS</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Portions of this software are copyright (c) 2013 The FreeType Project (www.freetype.org). All rights reserved.\ncURL - Copyright (c) 1996 - 2015, Daniel Stenberg, daniel@haxx.se, All rights reserved.\nmbed TLS - Copyright © 2008 - 2016 ARM Limited\nLZ4 - Copyright (c) 2011 - 2015,  Yann Collet\nxxhash - Copyright (c) 2012-2014, Yann Collet\nOggVorbis - Copyright (c) 2015, Xiph.Org Foundation\nOggTheora - Copyright (c) 2015, Xiph.Org Foundation\nWebM - Copyright (c) 2010, Google Inc. All rights reserved.\nPicoJSON - Copyright (c) 2009-2010 Cybozu Labs, Inc. Copyright (c) 2011-2014 Kazuho Oku\nRapidXml - Copyright (c) 2006, 2007 Marcin Kalicinski\nminiz by Rich Geldreich, richgel99@gmail.com\nSQLite by D. Richard Hipp, www.sqlite.org\nstb by Sean Barrett, sean+github@nothings.org\nLibYuv - Copyright 2011 The LibYuv Project Authors. All rights reserved.\nUTF8-CPP - Copyright 2006 Nemanja Trifunovic\nPortions of this software includes software developed by the FFMPEG Project. (https://ffmpeg.org/l).\nOpenMP® - Copyright © 1998-2015. The OpenMP name and the OpenMP logo are registered trademarks of the OpenMP Architecture Review Board.\nlibfaad - Code from FAAD2 is copyright (c) Nero AG, www.nero.com\nlibtremor - Ogg Vorbis 'Tremor' integer playback codec - Copyright (c) 2002, Xiph.org Foundation\nlibvpx - WebM VP8/VP9 Codec - Copyright (c) 2010, The WebM Project authors. All rights reserved.\nOpenAL Soft - Copyright © 2013 Chris Robinson, chris.kcat@gmail.com\nNVIDIA Texture Tools - Copyright (c) 2007 NVIDIA Corporation\n</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>-2</HorizontalResolution>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>7</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

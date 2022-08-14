@@ -1,0 +1,9 @@
+<!-- Used in Mansion: Burning Room. Sound of overturn of a chair. -->
+
+<Sound Pan="-0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSoundContainer Delay="0.200">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.800" Volume="1.000" FileName="invoked_scenario_Chair_Overturn.wav"></CSampleFile>
+        </CSample>
+    </CSoundContainer>
+</Sound>

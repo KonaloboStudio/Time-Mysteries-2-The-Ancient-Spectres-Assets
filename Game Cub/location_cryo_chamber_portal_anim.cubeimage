@@ -1,0 +1,15 @@
+<animatedImage fps="20.00" blendframes="0">
+	<frame source="cryo_chamber_add_portal_anim_01.png"></frame>
+	<frame source="cryo_chamber_add_portal_anim_02.png"></frame>
+	<frame source="cryo_chamber_add_portal_anim_03.png"></frame>
+	<frame source="cryo_chamber_add_portal_anim_04.png"></frame>
+	<frame source="cryo_chamber_add_portal_anim_05.png"></frame>
+	<frame source="cryo_chamber_add_portal_anim_06.png"></frame>
+	<frame source="cryo_chamber_add_portal_anim_07.png"></frame>
+	<frame source="cryo_chamber_add_portal_anim_08.png"></frame>
+	<frame source="cryo_chamber_add_portal_anim_09.png"></frame>
+	<frame source="cryo_chamber_add_portal_anim_10.png"></frame>
+	<frame source="cryo_chamber_add_portal_anim_11.png"></frame>
+	<frame source="cryo_chamber_add_portal_anim_12.png"></frame>
+	<frame source="cryo_chamber_add_portal_anim_13.png"></frame>
+</animatedImage>

@@ -1,0 +1,7 @@
+<!-- Used in loading screen. Sound of Viviana appearing at the and of loading animation. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.800" FileName="invoked_scenario_Viviana_Appear.wav"></CSampleFile>
+        </CSample>
+</Sound>

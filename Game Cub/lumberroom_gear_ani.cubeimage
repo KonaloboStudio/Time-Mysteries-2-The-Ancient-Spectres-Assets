@@ -1,0 +1,12 @@
+<animatedImage fps="50.00" blendframes="0">
+    <frame source="lumberroom_gear_ani_01.png" ></frame>
+	<frame source="lumberroom_gear_ani_02.png" ></frame>
+	<frame source="lumberroom_gear_ani_03.png" ></frame>
+	<frame source="lumberroom_gear_ani_01.png" ></frame>
+	<frame source="lumberroom_gear_ani_02.png" ></frame>
+	<frame source="lumberroom_gear_ani_03.png" ></frame>
+	<frame source="lumberroom_gear_ani_01.png" ></frame>
+	<frame source="lumberroom_gear_ani_02.png" ></frame>
+	<frame source="lumberroom_gear_ani_03.png" ></frame>
+	<frame source="lumberroom_gear_ani_01.png" ></frame>
+</animatedImage>

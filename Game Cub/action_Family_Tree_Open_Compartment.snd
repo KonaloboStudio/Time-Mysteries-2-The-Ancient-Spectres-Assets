@@ -1,0 +1,7 @@
+<!-- Used in Oak Study:Family Tree. Sound of compartment opening -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Family_Tree_Open_Compartment.wav"></CSampleFile>
+    </CSample>
+</Sound>

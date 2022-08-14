@@ -1,0 +1,7 @@
+<!-- Used in Crystal Study. Sound of curtains being opened. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.100" Volume="0.900" FileName="action_Curtains_Open.wav"></CSampleFile>
+    </CSample>
+</Sound>

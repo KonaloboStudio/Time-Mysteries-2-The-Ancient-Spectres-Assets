@@ -1,0 +1,7 @@
+<!-- Used in AmbroseComplex: Laboratory. Sound of huge working wheel.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="ambient_scenario_wheel.wav"></CSampleFile>
+        </CSample>
+</Sound>

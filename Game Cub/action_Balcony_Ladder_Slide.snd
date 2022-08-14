@@ -1,0 +1,7 @@
+<!-- Used in Balcony. Used when player lowers the ladder. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.100" FileName="action_Balcony_Ladder_Slide.wav"></CSampleFile>
+    </CSample>
+</Sound>

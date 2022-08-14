@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="voiceover_Hey_its_the_same_symbol_as_the_on_from_the.wav"></CSampleFile>
+    </CSample>
+</Sound>

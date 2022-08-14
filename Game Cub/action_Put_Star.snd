@@ -1,0 +1,20 @@
+<!-- Used in Mansion: Nursery. Sound of put start into hole. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+	<CSoundContainer>
+		<CSoundContainer Delay="0.1">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.200" Volume="1.0" 
+FileName="action_Put_Star.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+		<CSoundContainer Delay="0.6">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.300" Volume="1.0" 
+FileName="action_Put_Star_2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+	</CSoundContainer>
+</Sound>

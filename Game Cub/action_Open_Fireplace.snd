@@ -1,0 +1,7 @@
+<!-- Used in Dining Hall 1796. Sound of opening fireplace. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Open_Fireplace.wav"></CSampleFile>
+    </CSample>
+</Sound>

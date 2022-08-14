@@ -1,0 +1,8 @@
+<animatedImage fps="7.00" blendframes="0">
+	<frame source="burning_room_chair_01.png"></frame>
+	<frame source="burning_room_chair_02.png"></frame>
+	<frame source="burning_room_chair_03.png"></frame>
+	<frame source="burning_room_chair_04.png"></frame>
+	<frame source="burning_room_chair_05.png"></frame>
+	<frame source="burning_room_chair_06.png"></frame>
+</animatedImage>

@@ -1,0 +1,7 @@
+<!-- Used in Time Travel Cutscene. Sound during travel cutscene. Soft sound with clock tick-tock. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="invoked_scenario_Travel.wav"></CSampleFile>
+    </CSample>
+</Sound>

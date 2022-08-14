@@ -1,0 +1,14 @@
+<animatedImage fps="20.00" blendframes="0">
+	<frame source="minizoom_spool_screw1_0_degrees.png" ></frame>
+	<frame source="minizoom_spool_screw1_90_degrees.png" ></frame>
+	<frame source="minizoom_spool_screw1_180_degrees.png" ></frame>
+	<frame source="minizoom_spool_screw1_270_degrees.png" ></frame>
+	<frame source="minizoom_spool_screw1_0_degrees.png" ></frame>
+	<frame source="minizoom_spool_screw1_90_degrees.png" ></frame>
+	<frame source="minizoom_spool_screw1_180_degrees.png" ></frame>
+	<frame source="minizoom_spool_screw1_270_degrees.png" ></frame>
+	<frame source="minizoom_spool_screw1_0_degrees.png" ></frame>
+	<frame source="minizoom_spool_screw1_90_degrees.png" ></frame>
+	<frame source="minizoom_spool_screw1_180_degrees.png" ></frame>
+	<frame source="minizoom_spool_screw1_270_degrees.png" ></frame>
+</animatedImage>

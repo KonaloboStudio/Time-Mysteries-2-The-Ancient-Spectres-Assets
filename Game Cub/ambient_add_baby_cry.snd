@@ -1,0 +1,9 @@
+<!-- Used in Mansion: Fountain. Crying baby. -->
+
+<Sound Pan="0.400" Pitch="1.000" Volume="1.000" Looped="true" Ambient="true">
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.800" Looped="true" FadeInTime="1.000" FileName="ambient_add_baby_cry.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

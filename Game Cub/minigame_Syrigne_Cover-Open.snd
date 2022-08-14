@@ -1,0 +1,8 @@
+<!-- Used in MG: Syrigne. Open a cover after finish minigame.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.900" Volume="1.000" 
+FileName="minigame_Syrigne_Cover-Open.wav"></CSampleFile>
+        </CSample>
+</Sound>

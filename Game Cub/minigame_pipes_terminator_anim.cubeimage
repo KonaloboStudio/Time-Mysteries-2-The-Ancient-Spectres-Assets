@@ -1,0 +1,10 @@
+<animatedImage fps="10.00" blendframes="0">
+	<frame source="water_anim_terminator_water_frame_01.png" ></frame>
+	<frame source="water_anim_terminator_water_frame_02.png" ></frame>
+	<frame source="water_anim_terminator_water_frame_03.png" ></frame>
+	<frame source="water_anim_terminator_water_frame_04.png" ></frame>
+	<frame source="water_anim_terminator_water_frame_05.png" ></frame>
+	<frame source="water_anim_terminator_water_frame_06.png" ></frame>
+	<frame source="water_anim_terminator_water_frame_07.png" ></frame>
+	<frame source="water_anim_terminator_water_frame_08.png" ></frame>
+</animatedImage>

@@ -1,0 +1,7 @@
+<!-- Used in intro. Eyes appearing near the end of intro animation -->
+
+<Sound Pan="0.000" Pitch="1.000" Delay="2.3 "Volume="1.000">
+	<CSample>
+		<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="invoked_scenario_Intro_Eyes.wav"></CSampleFile>
+	</CSample>
+</Sound>

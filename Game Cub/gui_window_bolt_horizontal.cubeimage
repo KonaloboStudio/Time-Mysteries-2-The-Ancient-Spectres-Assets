@@ -1,0 +1,7 @@
+<animatedImage fps="20.00" blendframes="0">
+	<frame source="bolt_anim_02.png" left="0.00000" right="1.00000" top="0.00000" bottom="0.20000"></frame>
+	<frame source="bolt_anim_02.png" left="0.00000" right="1.00000" top="0.20000" bottom="0.40000"></frame>
+	<frame source="bolt_anim_02.png" left="0.00000" right="1.00000" top="0.40000" bottom="0.60000"></frame>
+	<frame source="bolt_anim_02.png" left="0.00000" right="1.00000" top="0.60000" bottom="0.80000"></frame>
+	<frame source="bolt_anim_02.png" left="0.00000" right="1.00000" top="0.80000" bottom="1.00000"></frame>
+</animatedImage>

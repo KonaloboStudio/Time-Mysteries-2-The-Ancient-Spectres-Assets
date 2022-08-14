@@ -1,0 +1,7 @@
+<!-- Used in Balcony. Used when player oils the rusted gears of ladder mechanism. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_balcony_ladder_oil.wav"></CSampleFile>
+    </CSample>
+</Sound>

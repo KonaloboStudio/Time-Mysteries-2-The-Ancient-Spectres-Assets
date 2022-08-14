@@ -1,0 +1,9 @@
+<!-- Used in Machine Room 1830. Inserting discs. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Insert_Discs.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

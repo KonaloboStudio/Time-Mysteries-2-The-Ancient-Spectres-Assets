@@ -1,0 +1,9 @@
+<!-- Used in Crystal Study -->
+
+<Sound Pan="0.0" Pitch="1.000" Volume="1.0" Looped="true" Ambient="true">
+	<CSequenceContainer DelayMin="3" DelayMax="5" >
+		<CSample >
+			<CSampleFile Pan="0.000" Pitch="1.200" Volume="0.800" FileName="05_Artificial_Squeak_6.wav"></CSampleFile>
+		</CSample>
+	</CSequenceContainer>
+</Sound>

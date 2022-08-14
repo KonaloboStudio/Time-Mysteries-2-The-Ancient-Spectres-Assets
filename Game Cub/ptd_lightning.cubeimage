@@ -1,0 +1,7 @@
+<animatedImage fps="20.00" blendframes="0">
+	<frame source="ptd_lightning_anim_frame_1.png" ></frame>
+	<frame source="ptd_lightning_anim_frame_2.png" ></frame>
+	<frame source="ptd_lightning_anim_frame_3.png" ></frame>
+	<frame source="ptd_lightning_anim_frame_4.png" ></frame>
+	<frame source="ptd_lightning_anim_frame_5.png" ></frame>
+</animatedImage>

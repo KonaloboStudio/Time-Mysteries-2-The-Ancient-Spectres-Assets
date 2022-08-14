@@ -1,0 +1,7 @@
+<!-- Used in Left Corridor 1796 . Sound of use infinity symbol. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Use_Infinity_Symbol.wav"></CSampleFile>
+    </CSample>
+</Sound>

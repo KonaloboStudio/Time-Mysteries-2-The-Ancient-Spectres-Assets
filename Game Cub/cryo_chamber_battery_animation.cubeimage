@@ -1,0 +1,7 @@
+<animatedImage fps="5.00" blendframes="0">
+	<frame source="cryo_chamber_battery_animation_01.png"></frame>
+	<frame source="cryo_chamber_battery_animation_02.png"></frame>
+	<frame source="cryo_chamber_battery_animation_03.png"></frame>
+	<frame source="cryo_chamber_battery_animation_04.png"></frame>
+	<frame source="cryo_chamber_battery_animation_05.png"></frame>
+</animatedImage>

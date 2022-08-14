@@ -1,0 +1,33 @@
+<loadinfo>
+	<languages>
+		<lang name="de"/>
+		<lang name="es"/>
+		<lang name="fr"/>
+		<lang name="it"/>
+		<lang name="ja"/>
+		<lang name="ko"/>
+		<lang name="pl"/>
+		<lang name="pt"/>
+		<lang name="ru"/>
+		<lang name="zh"/>
+		<lang name="en"/>
+	</languages>
+	<device name="Android_DDS_1080p_Tablet"/>
+	<device name="Android_DDS_320p_Smartphone"/>
+	<device name="Android_DDS_480p_Smartphone"/>
+	<device name="Android_DDS_480p_Tablet"/>
+	<device name="Android_DDS_720p_Smartphone"/>
+	<device name="Android_DDS_720p_Tablet"/>
+	<device name="Android_ETC_1080p_Tablet"/>
+	<device name="Android_ETC_320p_Smartphone"/>
+	<device name="Android_ETC_480p_Smartphone"/>
+	<device name="Android_ETC_480p_Tablet"/>
+	<device name="Android_ETC_720p_Smartphone"/>
+	<device name="Android_ETC_720p_Tablet"/>
+	<device name="Android_PVR_1080p_Tablet"/>
+	<device name="Android_PVR_320p_Smartphone"/>
+	<device name="Android_PVR_480p_Smartphone"/>
+	<device name="Android_PVR_480p_Tablet"/>
+	<device name="Android_PVR_720p_Smartphone"/>
+	<device name="Android_PVR_720p_Tablet"/>
+</loadinfo>

@@ -1,0 +1,9 @@
+<!-- Used Stairs Hall: inserting a symbol into the chest. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.200" FileName="action_Symbol_Button_Insert.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

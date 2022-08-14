@@ -1,0 +1,19 @@
+<animatedImage fps="12.00" blendframes="0">
+	<frame source="location_laboratory_doc_00.png"></frame>
+	<frame source="location_laboratory_doc_01.png"></frame>
+	<frame source="location_laboratory_doc_02.png"></frame>
+	<frame source="location_laboratory_doc_03.png"></frame>
+	<frame source="location_laboratory_doc_04.png"></frame>
+	<frame source="location_laboratory_doc_05.png"></frame>
+	<frame source="location_laboratory_doc_06.png"></frame>
+	<frame source="location_laboratory_doc_07.png"></frame>
+	<frame source="location_laboratory_doc_08.png"></frame>
+	<frame source="location_laboratory_doc_09.png"></frame>
+	<frame source="location_laboratory_doc_10.png"></frame>
+	<frame source="location_laboratory_doc_11.png"></frame>
+	<frame source="location_laboratory_doc_12.png"></frame>
+	<frame source="location_laboratory_doc_13.png"></frame>
+	<frame source="location_laboratory_doc_14.png"></frame>
+	<frame source="location_laboratory_doc_15.png"></frame>
+	<frame source="location_laboratory_doc_16.png"></frame>
+</animatedImage>

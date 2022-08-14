@@ -1,0 +1,454 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Me</Author>
+  <LastAuthor>Me</LastAuthor>
+  <Created>2000-01-01T06:00:00Z</Created>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="238" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Dictionary">
+  <Table ss:ExpandedRowCount="96" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="200.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="500.25"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_30_OFF_FOR_SUBSCRIBERS</Data></Cell>
+    <Cell><Data ss:Type="String">ДЛЯ ПОДПИСЧИКОВ КЛУБА СКИДКА 30% ПРИ КАЖДОЙ ПОКУПКЕ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_AM_CLUB</Data></Cell>
+    <Cell><Data ss:Type="String">AM Club</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Shortcut name of Artifex Mundi Club</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_ARTIFEX_MUNDI_CLUB</Data></Cell>
+    <Cell><Data ss:Type="String">Artifex Mundi Club</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Full Club name</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_WELCOME_TO_CLUB</Data></Cell>
+    <Cell><Data ss:Type="String">Добро пожаловать в клуб Artifex Mundi</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_GET_FREE_GAME_EVERY_MONTH</Data></Cell>
+    <Cell><Data ss:Type="String">ЕЖЕМЕСЯЧНО ПОЛУЧАЙТЕ БЕСПЛАТНУЮ* ИГРУ!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_NEXT_CREDIT_DATE</Data></Cell>
+    <Cell><Data ss:Type="String">Следующий кредит получите _DATE_</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">_DATE_ will be replaced with date</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_CREDITS_COUNT</Data></Cell>
+    <Cell><Data ss:Type="String">Количество доступных кредитов: _COUNT_</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">_COUNT_ will be replaced with numeric value</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_RENEW_SUBSCRIPTION</Data></Cell>
+    <Cell><Data ss:Type="String">Продлите подписку для получения новых кредитов</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_TERMS</Data></Cell>
+    <Cell><Data ss:Type="String">Подписавшись, вы соглашаетесь с [Условиями обслуживания Клуба Artifex Mundi] и даете свое согласие на ежемесячную оплату вашей учетной записи (с налогами, если это применимо). Цены указаны в местной валюте и с учетом НДС. Вы можете отменить подписку в любое время в настройках устройства. Плата за подписку прекращается в конце текущего расчетного периода после отмены. Абонентские сборы не подлежат возврату.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_UNLOCK_WITH_CREDIT_COUNT</Data></Cell>
+    <Cell><Data ss:Type="String">Количество доступных кредитов: _COUNT_</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">_COUNT_ will be replaced with numeric value</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_YOU_ARE_ABOUT_TO_UNLOCK</Data></Cell>
+    <Cell><Data ss:Type="String">Вы хотите разблокировать $(GAME_TITLE_SE)?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_ERROR_MESSAGE</Data></Cell>
+    <Cell><Data ss:Type="String">Ой! Произошла ошибка и нам нужно время, чтобы исправить это. \nПожалуйста, вернитесь позже.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_ERROR_NOT_CLUB_MEMBER</Data></Cell>
+    <Cell><Data ss:Type="String">Чтобы войти, вы должны быть членом клуба Artifex Mundi.\nПожалуйста, подпишитесь, чтобы создать учетную запись.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_ERROR_NO_INTERNET</Data></Cell>
+    <Cell><Data ss:Type="String">Ошибка подключения к Интернету</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_SUBSCRIBE</Data></Cell>
+    <Cell><Data ss:Type="String">ПОДПИШИТЕСЬ!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_UNLOCK_NOW</Data></Cell>
+    <Cell><Data ss:Type="String">РАЗБЛОКИРОВАТЬ СЕЙЧАС!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_GET_THIS_GAME</Data></Cell>
+    <Cell><Data ss:Type="String">ПОЛУЧИТЕ ЭТУ ИГРУ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_GET_THIS_GAME_AND_MORE</Data></Cell>
+    <Cell><Data ss:Type="String">ПОЛУЧИТЕ ЭТУ ИГРУ И БОЛЬШЕ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_GET_THIS_GAME_AND_MORE_EMERGENCY</Data></Cell>
+    <Cell><Data ss:Type="String">СТАНЬТЕ ЧЛЕНОМ КЛУБА!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_GET_THIS_GAME_FOR</Data></Cell>
+    <Cell><Data ss:Type="String">ЗА _PRICE_</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">_PRICE_ will be replaced with price value formatted with currency sign</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_GET_THIS_GAME_FOR_MO</Data></Cell>
+    <Cell><Data ss:Type="String">ЗА _PRICE_/мес</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">_PRICE_ will be replaced with price value formatted with currency sign</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_GET_THIS_GAME_FOR_ONLY_MO</Data></Cell>
+    <Cell><Data ss:Type="String">ЗА _PRICE_/мес</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">_PRICE_ will be replaced with price value formatted with currency sign</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_RESTORE_PURCHASE</Data></Cell>
+    <Cell><Data ss:Type="String">ВОССТАНОВИТЬ ПОКУПКУ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_RESTORE_PURCHASE_SMALL</Data></Cell>
+    <Cell><Data ss:Type="String">Восстановить покупку  </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_LOG_IN</Data></Cell>
+    <Cell><Data ss:Type="String">ВОЙТИ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_LOG_OUT</Data></Cell>
+    <Cell><Data ss:Type="String">ВЫЙТИ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_SUBSCRIPTION_NOT_ACTIVE</Data></Cell>
+    <Cell><Data ss:Type="String">Ваша подписка неактивна.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_UNLOCK_WITH_1_CREDIT</Data></Cell>
+    <Cell><Data ss:Type="String">РАЗБЛОКИРОВАТЬ ЗА 1 КРЕДИТ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_NOW_UNLOCK_WITH_1_CREDIT</Data></Cell>
+    <Cell><Data ss:Type="String">РАЗБЛОКИРОВАТЬ СЕЙЧАС ЗА 1 КРЕДИТ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_ALREADY_A_MEMBER</Data></Cell>
+    <Cell><Data ss:Type="String">Уже вступили в Клуб?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_WELCOME</Data></Cell>
+    <Cell><Data ss:Type="String">ДОБРО ПОЖАЛОВАТЬ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_MORE_INFO</Data></Cell>
+    <Cell><Data ss:Type="String">ПОДРОБНЕЕ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_JOIN_THE_CLUB</Data></Cell>
+    <Cell><Data ss:Type="String">ВСТУПИТЬ В КЛУБ!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_ONE_FREE_GAME</Data></Cell>
+    <Cell><Data ss:Type="String">1 БЕСПЛАТНАЯ* ИГРА ЕЖЕМЕСЯЧНО!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_GUARANTED_DISCOUNT</Data></Cell>
+    <Cell><Data ss:Type="String">СКИДКА 30% НА КАЖДУЮ ИГРУ КЛУБА AM!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_ASTERIX_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">*В ФОРМЕ ЗАМЕНЯЕМОГО КРЕДИТА</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_ERROR_TITLE</Data></Cell>
+    <Cell><Data ss:Type="String">Ошибка</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_SUCCESS_TITLE</Data></Cell>
+    <Cell><Data ss:Type="String">Успех</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_GAME_PURCHASE_RESTORED</Data></Cell>
+    <Cell><Data ss:Type="String">Покупка игры была восстановлена правильно</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_NEED_HELP</Data></Cell>
+    <Cell><Data ss:Type="String">Нужна Помощь?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_DESCRIBE_PROBLEM</Data></Cell>
+    <Cell><Data ss:Type="String">Пожалуйста, опишите вашу проблему ниже:\n\n\nСлужба поддержки клуба AM: _NUMBER_</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_SUPPORT_TITLE</Data></Cell>
+    <Cell><Data ss:Type="String">Служба поддержки клуба AM: _NUMBER_</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_SUBSCRIPTION_DESC</Data></Cell>
+    <Cell><Data ss:Type="String">Подписка клуба Artifex Mundi</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_THANK_YOU</Data></Cell>
+    <Cell><Data ss:Type="String">Спасибо, что вы стали членом клуба Artifex Mundi.\n\nВы получили $(CLUB_COIN_ICON) кредит, с помощью которого вы можете разблокировать любую игру клуба Artifex Mundi.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_BUTTON_OK</Data></Cell>
+    <Cell><Data ss:Type="String">ОК</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_SUBSCRIBE_NOW</Data></Cell>
+    <Cell><Data ss:Type="String">ПОДПИСАТЬСЯ СЕЙЧАС!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_CONTINUE_ADVENTURE</Data></Cell>
+    <Cell><Data ss:Type="String">ПРОДОЛЖИТЬ ПРИКЛЮЧЕНИЕ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_YOU_ARE_LOGGED_IN</Data></Cell>
+    <Cell><Data ss:Type="String">Вы вошли в учетную запись</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_UNLOCK_FOR</Data></Cell>
+    <Cell><Data ss:Type="String">Разблокировать за _PRICE_</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_UNLOCK_FOR_REGULAR</Data></Cell>
+    <Cell><Data ss:Type="String">Разблокировать за обычную стоимость</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_FREE_UNLOCK</Data></Cell>
+    <Cell><Data ss:Type="String">РАЗБЛОКИРОВАТЬ БЕСПЛАТНО</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_WHAT_YOU_GET</Data></Cell>
+    <Cell><Data ss:Type="String">Что вы получите при подписке:</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_BENEFITS_1</Data></Cell>
+    <Cell><Data ss:Type="String">$(CLUB_BULLET_ICON)  ОДНА БЕСПЛАТНАЯ РАЗБЛОКИРОВКА В МЕСЯЦ!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_BENEFITS_2</Data></Cell>
+    <Cell><Data ss:Type="String">$(CLUB_BULLET_ICON)  30% СКИДКА НА ВСЕ ИГРЫ КЛУБА АМ!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_BENEFITS_3</Data></Cell>
+    <Cell><Data ss:Type="String">$(CLUB_BULLET_ICON)  ИГРЫ ОСТАЮТСЯ ВАШИМИ НАВСЕГДА!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_BENEFITS_4</Data></Cell>
+    <Cell><Data ss:Type="String">$(CLUB_BULLET_ICON)  ОТМЕНА ПОДПИСКИ В ЛЮБОЕ ВРЕМЯ!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_LEGAL_INFO</Data></Cell>
+    <Cell><Data ss:Type="String">Оформляя подписку АМ клуба, вы соглашаетесь с Условиями использования сервиса</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_OR</Data></Cell>
+    <Cell><Data ss:Type="String">ИЛИ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_UNLOCK_WITH_MEMBER_DISCOUNT</Data></Cell>
+    <Cell><Data ss:Type="String">РАЗБЛОКИРОВАТЬ С ЧЛЕНСКОЙ СКИДКОЙ 30%</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_GET_THIS_GAME_WITH_FREE_UNLOCK</Data></Cell>
+    <Cell><Data ss:Type="String">ПОЛУЧИТЬ ЭТУ ИГРУ С БЕСПЛАТНОЙ РАЗБЛОКИРОВКОЙ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_LOGGED_IN</Data></Cell>
+    <Cell><Data ss:Type="String">Вход выполнен</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_CLUB_UNLOCK_EMERGENCY</Data></Cell>
+    <Cell><Data ss:Type="String">Разблокировать с членской скидкой</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_30_OFF</Data></Cell>
+    <Cell><Data ss:Type="String">Скидка 30%!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_CONTACT_SUPPORT</Data></Cell>
+    <Cell><Data ss:Type="String">КОНТАКТНАЯ ПОДДЕРЖКА</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_THANK_YOU_FREE_UNLOCK</Data></Cell>
+    <Cell><Data ss:Type="String">Благодарим за вступление в клуб Artifex Mundi. \n\n Вы получили $(CLUB_COIN_ICON) бесплатную разблокировку. Вы можете использовать ее сейчас, чтобы разблокировать любую игру клуба Artifex Mundi. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_USE_IT_NOW</Data></Cell>
+    <Cell><Data ss:Type="String">ИСПОЛЬЗОВАТЬ СЕЙЧАС!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_YOU_DONT_HAVE_ANY_CREDIT</Data></Cell>
+    <Cell><Data ss:Type="String">НЕВОЗМОЖНО ИСПОЛЬЗОВАТЬ БЕСПЛАТНУЮ РАЗБЛОКИРОВКУ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_BEST_VALUE</Data></Cell>
+    <Cell><Data ss:Type="String">ЛУЧШАЯ ЦЕНА</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_BEST_PICK</Data></Cell>
+    <Cell><Data ss:Type="String">ЛУЧШИЙ ВЫБОР</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_FREE_UNLOCK_COUNT</Data></Cell>
+    <Cell><Data ss:Type="String">У ВАС ОСТАЛОСЬ: _COUNT_ БЕСПЛАТНЫХ РАЗБЛОКИРОВОК</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_NEXT_FREE_UNLOCK_DATE</Data></Cell>
+    <Cell><Data ss:Type="String">Следующая БЕСПЛАТНАЯ РАЗБЛОКИРОВКА доступна _DATE_</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_RENEW_SUBSCRIPTION_TO_RECEIVE_FREE_UNLOCK</Data></Cell>
+    <Cell><Data ss:Type="String">Возобновить подписку и получить бесплатную разблокировку</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_WELCOME_TO_CLUB_CAPS</Data></Cell>
+    <Cell><Data ss:Type="String">ДОБРО ПОЖАЛОВАТЬ В КЛУБ АМ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_YOU_DONT_HAVE_FREE_UNLOCKS</Data></Cell>
+    <Cell><Data ss:Type="String">У вас не осталось БЕСПЛАТНЫХ РАЗБЛОКИРОВОК.\n\n Хотите использовать вашу 30% скидку члена АМ клуба?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_IT_JUST</Data></Cell>
+    <Cell><Data ss:Type="String">Всего</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_IN_PLACE_OF</Data></Cell>
+    <Cell><Data ss:Type="String">Вместо</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_UNLOCK_THIS_GAME</Data></Cell>
+    <Cell><Data ss:Type="String">Разблокировать эту игру</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_NOT_SURE</Data></Cell>
+    <Cell><Data ss:Type="String">Не уверены, что Клуб AM подходит вам?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_MEMBERS_BENEFITS</Data></Cell>
+    <Cell><Data ss:Type="String">Выгоды членства:</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_PRICE_IN_BRACKET</Data></Cell>
+    <Cell><Data ss:Type="String">(_PRICE_)</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">_PRICE_ will be replaced with price value formatted with currency sign</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_LEARN_MORE</Data></Cell>
+    <Cell><Data ss:Type="String">УЗНАТЬ БОЛЬШЕ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_CONTINUE</Data></Cell>
+    <Cell><Data ss:Type="String">Продолжить</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_ALL_GAMES_30_OFF</Data></Cell>
+    <Cell><Data ss:Type="String">ВСЕ ИГРЫ СО СКИДКОЙ 30%!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_MY_ACCOUNT</Data></Cell>
+    <Cell><Data ss:Type="String">МОЙ АККАУНТ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_INFO_TAGLINE_1</Data></Cell>
+    <Cell><Data ss:Type="String">Вступайте в Клуб AM и открывайте для себя десятки игр!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_INFO_TAGLINE_2</Data></Cell>
+    <Cell><Data ss:Type="String">Приключения ждут!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_INFO_TAGLINE_3</Data></Cell>
+    <Cell><Data ss:Type="String">Бесплатные игры и специальные предложения для каждого члена Клуб AM!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_INFO_TAGLINE_4</Data></Cell>
+    <Cell><Data ss:Type="String">Хотите поиграть во все из них?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_LOGIN_GAME_CENTER_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">Не удалось войти в Game Center. Попробуйте войти через меню настроек на своем устройстве.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_TRY_AGIAN_ERROR_MESSAGE</Data></Cell>
+    <Cell><Data ss:Type="String">Проверьте интернет-подключение или повторите попытку позже.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_TRY_AGIAN</Data></Cell>
+    <Cell><Data ss:Type="String">повторите</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_IOS_WALL_OF_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Доступ к AM Club действует по модели подписки с ежемесячной оплатой. Счет на оплату будет выписан на учетную запись iTunes в момент подтверждения покупки. Подписка автоматически продлевается до тех пор, пока ее автопродление не будет отключено не менее чем за 24 часа до окончания очередного периода подписки. Счет на оплату следующего периода подписки будет выписан на учетную запись в течение 24 часов, предшествующих окончанию текущего периода подписки, в нем будет указана стоимость продления подписки. После покупки подписки пользователь может управлять ее параметрами и может отключить ее автоматическое продление в настройках учетной записи. Любой неиспользуемый период бесплатной пробной подписки, если таковая предложена, будет утрачен при покупке пользователем подписки на данную публикацию в случаях, когда это применимо.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_GET_THIS_GAME_FOR_ONLY_MO_IOS</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">other localizations than EN&amp;amp;#160;are empty by design</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_SUBSCRIPTION_REGISTER_CONFLICT</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_SUBSCRIPTION_REGISTER_CONFLICT_TITLE</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CLUB_SHOW_FAQ</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

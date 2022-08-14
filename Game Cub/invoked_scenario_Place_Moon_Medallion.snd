@@ -1,0 +1,7 @@
+<!-- Used in Governess House, Crystal Study, Oak Study. Placing the moon medallion in special lock. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.200" FileName="invoked_scenario_Place_Moon_Medallion.wav"></CSampleFile>
+    </CSample>
+</Sound>

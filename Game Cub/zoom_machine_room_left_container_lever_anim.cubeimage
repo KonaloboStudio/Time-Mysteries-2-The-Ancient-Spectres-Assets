@@ -1,0 +1,15 @@
+<animatedImage fps="20.00" blendframes="0">
+    <frame source="zoom_machine_room_left_container_lever_000.png" ></frame>
+	<frame source="zoom_machine_room_left_container_lever_001.png" ></frame>
+	<frame source="zoom_machine_room_left_container_lever_002.png" ></frame>
+	<frame source="zoom_machine_room_left_container_lever_003.png" ></frame>
+	<frame source="zoom_machine_room_left_container_lever_004.png" ></frame>
+	<frame source="zoom_machine_room_left_container_lever_005.png" ></frame>
+	<frame source="zoom_machine_room_left_container_lever_006.png" ></frame>
+	<frame source="zoom_machine_room_left_container_lever_007.png" ></frame>
+	<frame source="zoom_machine_room_left_container_lever_008.png" ></frame>
+	<frame source="zoom_machine_room_left_container_lever_009.png" ></frame>
+	<frame source="zoom_machine_room_left_container_lever_010.png" ></frame>
+	<frame source="zoom_machine_room_left_container_lever_011.png" ></frame>
+	<frame source="zoom_machine_room_left_container_lever_012.png" ></frame>
+</animatedImage>

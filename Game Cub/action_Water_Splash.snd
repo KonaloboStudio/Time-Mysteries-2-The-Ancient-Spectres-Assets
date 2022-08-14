@@ -1,0 +1,15 @@
+<!-- Used in Meadow: Inside - zoom cauldron. Drop something into water.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="1.000" Volume="1.000" FadeInTime="0" FadeOutTime="0" FileName="action_Water_Splash_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="1.000" Volume="1.000" FadeInTime="0" FadeOutTime="0" FileName="action_Water_Splash_2.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="1.000" Volume="1.000" FadeInTime="0" FadeOutTime="0" FileName="action_Water_Splash_3.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

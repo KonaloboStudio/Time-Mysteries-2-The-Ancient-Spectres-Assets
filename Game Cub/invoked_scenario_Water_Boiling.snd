@@ -1,0 +1,7 @@
+<!-- Used in Meadow: Inside - zoom cauldron. water is boiling.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="invoked_scenario_Water_Boiling.wav"></CSampleFile>
+        </CSample>
+</Sound>

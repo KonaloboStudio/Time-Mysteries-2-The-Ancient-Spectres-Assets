@@ -1,0 +1,7 @@
+<!-- Used in AmbroseComplex: CryoChamber - Minizoom TreeMachine. Electricity start to flow inside a wires.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Put_Star.wav"></CSampleFile>
+        </CSample>
+</Sound>

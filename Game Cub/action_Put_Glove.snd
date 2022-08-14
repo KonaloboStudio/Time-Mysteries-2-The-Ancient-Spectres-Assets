@@ -1,0 +1,7 @@
+<!-- Used in Oak Hall 1830. Sound of ending spell (putting glove to the bowl). -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Put_Glove.wav"></CSampleFile>
+    </CSample>
+</Sound>

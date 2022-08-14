@@ -1,0 +1,8 @@
+<!-- Used in Venice Time 2: Workshop. Sound of pour out a molten metal. -->
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+    <CSequenceContainer Delay="1.000">
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="1.000" Volume="1.000" FadeInTime="0" FadeOutTime="0" FileName="invoked_scenario_Molten_Metal.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

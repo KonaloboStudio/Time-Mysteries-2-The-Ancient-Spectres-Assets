@@ -1,0 +1,9 @@
+<animatedImage fps="10.00" blendframes="0">
+	<frame source="matchmany_water_seal_anim_idle_01.png" ></frame>
+	<frame source="matchmany_water_seal_anim_idle_02.png" ></frame>
+	<frame source="matchmany_water_seal_anim_idle_03.png" ></frame>
+	<frame source="matchmany_water_seal_anim_idle_04.png" ></frame>
+	<frame source="matchmany_water_seal_anim_idle_05.png" ></frame>
+	<frame source="matchmany_water_seal_anim_idle_06.png" ></frame>
+	<frame source="matchmany_water_seal_anim_idle_07.png" ></frame>
+</animatedImage>

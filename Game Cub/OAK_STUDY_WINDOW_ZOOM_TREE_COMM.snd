@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="voiceover_Was_there_really_a_face_on_that.wav"></CSampleFile>
+    </CSample>
+</Sound>

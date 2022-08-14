@@ -1,0 +1,7 @@
+<!-- Used in Garden 1410. Looped sounf of fire burning -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.800" FileName="invoked_scenario_Fire_Looped.wav"></CSampleFile>
+    </CSample>
+</Sound>

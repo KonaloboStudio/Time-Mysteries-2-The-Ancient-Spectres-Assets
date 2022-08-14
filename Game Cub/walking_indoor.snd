@@ -1,0 +1,5 @@
+<Sound Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="walking_indoor.wav"></CSampleFile>
+        </CSample>
+</Sound>

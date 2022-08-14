@@ -1,0 +1,12 @@
+<animatedImage fps="20" blendframes="0">
+	<frame source="misstap000.png"></frame>
+	<frame source="misstap001.png"></frame>
+	<frame source="misstap002.png"></frame>
+	<frame source="misstap003.png"></frame>
+	<frame source="misstap004.png"></frame>
+	<frame source="misstap005.png"></frame>
+	<frame source="misstap006.png"></frame>
+	<frame source="misstap007.png"></frame>
+	<frame source="misstap008.png"></frame>
+	<frame source="misstap009.png"></frame>
+</animatedImage>

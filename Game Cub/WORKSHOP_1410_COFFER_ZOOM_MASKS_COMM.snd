@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="WORKSHOP_1410_COFFER_ZOOM_MASKS_COMM.wav"></CSampleFile>
+    </CSample>
+</Sound>

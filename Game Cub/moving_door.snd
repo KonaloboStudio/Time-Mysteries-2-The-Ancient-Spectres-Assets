@@ -1,0 +1,12 @@
+<!-- Used in many locations. Silent sound of moving door. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="1.400" Volume="0.800" FadeInTime="0" FadeOutTime="0" FileName="moving_door.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="2" Pitch="0.900" Volume="0.800" FadeInTime="0" FadeOutTime="0" FileName="moving_door_2.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

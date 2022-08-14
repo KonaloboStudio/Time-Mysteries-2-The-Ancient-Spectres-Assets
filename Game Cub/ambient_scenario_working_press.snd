@@ -1,0 +1,9 @@
+<!-- Used in Machine Room 1796. Sound of working press (synhronized with animation on location). -->
+
+<Sound Pan="-0.200" Pitch="1.000" Volume="1.000" Looped="false" Ambient="true">
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" Looped="false" FadeInTime="1.000" FileName="ambient_scenario_working_press.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

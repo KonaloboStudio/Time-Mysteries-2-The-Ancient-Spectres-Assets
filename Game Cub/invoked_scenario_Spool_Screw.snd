@@ -1,0 +1,27 @@
+<!-- Used in Venice Time1: Workshop. Sound of unscrew screws. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+	<CSoundContainer>
+		<CSoundContainer Delay="1.0">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.200" Volume="1.0" 
+FileName="invoked_scenario_Spool_Screw.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+		<CSoundContainer Delay="2.4">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.200" Volume="1.0" 
+FileName="invoked_scenario_Spool_Screw.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="3.6">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.200" Volume="1.0" 
+FileName="invoked_scenario_Spool_Screw.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+	</CSoundContainer>
+</Sound>

@@ -1,0 +1,9 @@
+<!-- Used in Right corridor: Stories minigame. Sound of panels changing. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.300" Volume="1.000" FileName="action_Cipher_Roll.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

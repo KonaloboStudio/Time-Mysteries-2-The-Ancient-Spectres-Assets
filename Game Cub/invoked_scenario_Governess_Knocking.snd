@@ -1,0 +1,7 @@
+<!-- Used in Governess house. Sound of someone knocking on the door. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.500" Pitch="1.200" Volume="1.200" FileName="invoked_scenario_Governess_Knocking.wav"></CSampleFile>
+    </CSample>
+</Sound>

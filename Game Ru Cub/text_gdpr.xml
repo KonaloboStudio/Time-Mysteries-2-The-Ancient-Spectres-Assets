@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Me</Author>
+  <LastAuthor>Me</LastAuthor>
+  <Created>2000-01-01T06:00:00Z</Created>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="238" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Dictionary">
+  <Table ss:ExpandedRowCount="18" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="200.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="500.25"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_MESSAGE_BOX_TITLE</Data></Cell>
+    <Cell><Data ss:Type="String">Мы обновили наши Условия</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_MESSAGE_BOX_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Нажимая «Принять», вы соглашаетесь с нашими Условиями и Политикой конфиденциальности.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_MESSAGE_BOX_ACCEPT_BUTTON</Data></Cell>
+    <Cell><Data ss:Type="String">Принять</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_MESSAGE_BOX_TERMS_BUTTON</Data></Cell>
+    <Cell><Data ss:Type="String">Условия</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_TOS_WINDOW_HEADER</Data></Cell>
+    <Cell><Data ss:Type="String">Условия</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_TOS_WINDOW_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Нажимая &quot;Продолжить&quot; вы подтверждаете, что вам исполнилось 18.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_TOS_WINDOW_AGREE_BTN</Data></Cell>
+    <Cell><Data ss:Type="String">Принять условия и продолжить</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_TOS_PRIVACY_CONSENT</Data></Cell>
+    <Cell><Data ss:Type="String">Принимая настоящее соглашение, я даю согласие ARTIFEX MUNDI S.A. на хранение, обработку и использование моих персональных данных в целях администрирования игры $(GAME_TITLE). Я осознаю, что мои персональные данные могут быть переданы партнерам за пределами ЕС/ЕЭЗ, в странах которых может быть более низкий уровень защиты данных. Я также понимаю, что могу отозвать свое согласие в любое время (например, изменив настройки моей учетной записи или уведомив об этом ARTIFEX MUNDI S.A.).</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_TOS_DATA_PROTECTION</Data></Cell>
+    <Cell><Data ss:Type="String">Защита данных</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_TOS_PRIVACY_BUTTON</Data></Cell>
+    <Cell><Data ss:Type="String">Наша политика конфиденциальности:</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_TOS_PRIVACY_AGREE</Data></Cell>
+    <Cell><Data ss:Type="String">Принять условия и зарегистрироваться</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_TOS_CLUB_PRIVACY_CONSENT</Data></Cell>
+    <Cell><Data ss:Type="String">Настоящим даю согласие ARTIFEX MUNDI S.A. На сбор, хранение и обработку моих персональных данных в целях администрирования игр Клуба Artifex Mundi. Я осознаю, что мои персональные данные могут быть переданы партнерам за пределами ЕС/ЕЭЗ, в странах которых может быть более низкий уровень защиты данных. Я также понимаю, что могу отозвать свое согласие в любое время (например, изменив настройки моей учетной записи или уведомив об этом ARTIFEX MUNDI S.A.).</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_REVOKE_CONSENT</Data></Cell>
+    <Cell><Data ss:Type="String">Отозвать согласие</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_REVOKE_CANCEL</Data></Cell>
+    <Cell><Data ss:Type="String">Отмена</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_REVOKE_CONTINUE</Data></Cell>
+    <Cell><Data ss:Type="String">Продолжить</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_PRIVACY_POLICY</Data></Cell>
+    <Cell><Data ss:Type="String">Политика конфиденциальности</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_REVOKE_OPERATION_FAILED</Data></Cell>
+    <Cell><Data ss:Type="String">Что-то пошло не так. Проверьте подключение к Интернету и попробуйте снова.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GDPR_REVOKE_CONFIRM_DESC</Data></Cell>
+    <Cell><Data ss:Type="String">Свайпом поля внизу и нажатием &quot;Продолжить&quot; вы подтверждаете, что являетесь владельцем данной игровой учетной записи и хотите воспользоваться своим правом на забвение. Это означает, что игра больше не сможет вас идентифицировать, и ваши персональные данные будут удалены. Это касается вашей сохраненной игры, данных учетной записи и т.д. Действие не может быть отменено. Согласиться?</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,7 @@
+<!-- Used in Garden 1576, Garden 1410. Sound of digging a hole in the ground. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Dig_Hole.wav"></CSampleFile>
+    </CSample>
+</Sound>

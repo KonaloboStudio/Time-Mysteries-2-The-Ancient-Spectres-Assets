@@ -1,0 +1,8 @@
+<animatedImage fps="15.00" blendframes="0">
+	<frame source="ho_cottage_frog3_neck1a.png"></frame>
+	<frame source="ho_cottage_frog3_neck1b.png"></frame>
+	<frame source="ho_cottage_frog3_neck1c.png"></frame>
+	<frame source="ho_cottage_frog3_neck1c.png"></frame>
+	<frame source="ho_cottage_frog3_neck1b.png"></frame>
+	<frame source="ho_cottage_frog3_neck1a.png"></frame>
+</animatedImage>

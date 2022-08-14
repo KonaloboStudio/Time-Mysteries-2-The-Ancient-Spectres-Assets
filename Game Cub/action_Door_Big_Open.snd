@@ -1,0 +1,7 @@
+<!-- Used in AmbroseComplex: Cave. Open a big door sound.-->
+
+<Sound Pan="0.500" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.800" Volume="1.000" FileName="action_Door_Big_Open.wav"></CSampleFile>
+        </CSample>
+</Sound>

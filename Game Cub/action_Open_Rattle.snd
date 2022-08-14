@@ -1,0 +1,7 @@
+<!-- Used in Governess House 1830. Sound of opening a rattle. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="action_Open_Rattle.wav"></CSampleFile>
+    </CSample>
+</Sound>

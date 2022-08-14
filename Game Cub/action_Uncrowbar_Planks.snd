@@ -1,0 +1,34 @@
+<!-- Used in Dront Door 1830. Taking of four planks using a crowbar. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+	<CSoundContainer>
+		<CSoundContainer Delay="0.6">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" 
+FileName="action_Uncrowbar_Planks_1.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+		<CSoundContainer Delay="1.5">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" 
+FileName="action_Uncrowbar_Planks_2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="2.6">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" 
+FileName="action_Uncrowbar_Planks_1.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+
+		<CSoundContainer Delay="4.0">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" 
+FileName="action_Uncrowbar_Planks_2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+	</CSoundContainer>
+</Sound>

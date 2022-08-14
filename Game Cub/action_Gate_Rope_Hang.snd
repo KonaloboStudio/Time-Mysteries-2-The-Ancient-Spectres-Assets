@@ -1,0 +1,7 @@
+<!-- Used in Mansion Gate. Used when the player attaches the rope in gargoyles hand. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Gate_Rope_Hang.wav"></CSampleFile>
+    </CSample>
+</Sound>

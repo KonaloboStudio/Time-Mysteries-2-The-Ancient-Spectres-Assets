@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="CE_COTTAGE_NEST_ZOOM_BIRD_COMM.wav"></CSampleFile>
+    </CSample>
+</Sound>

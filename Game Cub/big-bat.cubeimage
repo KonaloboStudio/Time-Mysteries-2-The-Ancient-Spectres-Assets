@@ -1,0 +1,12 @@
+<animatedImage fps="30.00" blendframes="0">
+    <frame source="Big_Bat_anim00.png" ></frame>
+	<frame source="Big_Bat_anim01.png" ></frame>
+	<frame source="Big_Bat_anim02.png" ></frame>
+	<frame source="Big_Bat_anim03.png" ></frame>
+	<frame source="Big_Bat_anim04.png" ></frame>
+	<frame source="Big_Bat_anim05.png" ></frame>
+	<frame source="Big_Bat_anim06.png" ></frame>
+	<frame source="Big_Bat_anim07.png" ></frame>
+	<frame source="Big_Bat_anim08.png" ></frame>
+	<frame source="Big_Bat_anim09.png" ></frame>
+</animatedImage>

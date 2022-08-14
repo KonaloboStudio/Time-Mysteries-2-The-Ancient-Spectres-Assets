@@ -1,0 +1,7 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSoundContainer>
+		<CSample>
+		   <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="Steam_Burst04.wav"></CSampleFile>
+        </CSample>
+    </CSoundContainer>
+</Sound>

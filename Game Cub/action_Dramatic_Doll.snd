@@ -1,0 +1,7 @@
+<!-- Used in Front Door. After clickin on bird -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="0.900" Volume="1.300" FileName="action_Dramatic_Doll.wav"></CSampleFile>
+    </CSample>
+</Sound>

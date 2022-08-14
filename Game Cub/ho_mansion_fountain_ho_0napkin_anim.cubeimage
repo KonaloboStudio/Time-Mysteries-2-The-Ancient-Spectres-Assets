@@ -1,0 +1,10 @@
+<animatedImage fps="10.00" blendframes="0">
+	<frame source="ho_mansion_fountain_01t_ho_0napkin01.png" ></frame>
+	<frame source="ho_mansion_fountain_01t_ho_0napkin02.png" ></frame>
+	<frame source="ho_mansion_fountain_01t_ho_0napkin03.png" ></frame>
+	<frame source="ho_mansion_fountain_01t_ho_0napkin04.png" ></frame>
+	<frame source="ho_mansion_fountain_01t_ho_0napkin05.png" ></frame>
+	<frame source="ho_mansion_fountain_01t_ho_0napkin06.png" ></frame>
+	<frame source="ho_mansion_fountain_01t_ho_0napkin07.png" ></frame>
+	<frame source="ho_mansion_fountain_01t_ho_0napkin08.png" ></frame>
+</animatedImage>

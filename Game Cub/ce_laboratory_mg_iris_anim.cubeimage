@@ -1,0 +1,12 @@
+<animatedImage fps="20.00" blendframes="0">
+	<frame source="ce_laboratory_mg_iris_01.png"></frame>
+	<frame source="ce_laboratory_mg_iris_02.png"></frame>
+	<frame source="ce_laboratory_mg_iris_03.png"></frame>
+	<frame source="ce_laboratory_mg_iris_04.png"></frame>
+	<frame source="ce_laboratory_mg_iris_05.png"></frame>
+	<frame source="ce_laboratory_mg_iris_06.png"></frame>
+	<frame source="ce_laboratory_mg_iris_07.png"></frame>
+	<frame source="ce_laboratory_mg_iris_08.png"></frame>
+	<frame source="ce_laboratory_mg_iris_09.png"></frame>
+	<frame source="ce_laboratory_mg_iris_10.png"></frame>
+</animatedImage>

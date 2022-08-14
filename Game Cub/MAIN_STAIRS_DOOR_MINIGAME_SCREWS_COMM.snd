@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="MAIN_STAIRS_DOOR_MINIGAME_SCREWS_COMM.wav"></CSampleFile>
+    </CSample>
+</Sound>

@@ -1,0 +1,7 @@
+<!-- Used in Minigame Padlock. Sound of wheel rotating. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="minigame_Padlock_Rotate_2.wav"></CSampleFile>
+    </CSample>
+</Sound>

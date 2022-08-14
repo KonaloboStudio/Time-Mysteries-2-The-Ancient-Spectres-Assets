@@ -1,0 +1,14 @@
+<animatedImage fps="16" blendframes="0" width="71" height="103">
+	<frame source="hud_diary16_fps_anim_frame_001.png" dx="1" dy="17" width="70" height="86"></frame>
+	<frame source="hud_diary16_fps_anim_frame_002.png" dx="0" dy="13" width="71" height="90"></frame>
+	<frame source="hud_diary16_fps_anim_frame_003.png" dx="1" dy="11" width="70" height="92"></frame>
+	<frame source="hud_diary16_fps_anim_frame_004.png" dx="0" dy="6" width="71" height="97"></frame>
+	<frame source="hud_diary16_fps_anim_frame_005.png" dx="1" dy="3" width="70" height="100"></frame>
+	<frame source="hud_diary16_fps_anim_frame_006.png" dx="1" dy="1" width="70" height="102"></frame>
+	<frame source="hud_diary16_fps_anim_frame_007.png" dx="1" dy="0" width="70" height="103"></frame>
+	<frame source="hud_diary16_fps_anim_frame_008.png" dx="1" dy="0" width="70" height="103"></frame>
+	<frame source="hud_diary16_fps_anim_frame_009.png" dx="1" dy="0" width="70" height="103"></frame>
+	<frame source="hud_diary16_fps_anim_frame_010.png" dx="1" dy="0" width="70" height="103"></frame>
+	<frame source="hud_diary16_fps_anim_frame_011.png" dx="1" dy="0" width="70" height="103"></frame>
+	<frame source="hud_diary16_fps_anim_frame_012.png" dx="1" dy="0" width="70" height="103"></frame>
+</animatedImage>

@@ -1,0 +1,7 @@
+<!-- Used in Oak Hall. Sound of feather put into the bowl. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.200" Volume="0.900" FileName="action_Feather_Put_Into.wav"></CSampleFile>
+    </CSample>
+</Sound>

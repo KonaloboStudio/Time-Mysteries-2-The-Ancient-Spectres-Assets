@@ -1,0 +1,16 @@
+<animatedImage fps="5.00" blendframes="0">
+	<frame source="cryo_chamber_cradle_animation_01.png"></frame>
+	<frame source="cryo_chamber_cradle_animation_02.png"></frame>
+	<frame source="cryo_chamber_cradle_animation_03.png"></frame>
+	<frame source="cryo_chamber_cradle_animation_04.png"></frame>
+	<frame source="cryo_chamber_cradle_animation_05.png"></frame>
+	<frame source="cryo_chamber_cradle_animation_06.png"></frame>
+	<frame source="cryo_chamber_cradle_animation_07.png"></frame>
+	<frame source="cryo_chamber_cradle_animation_08.png"></frame>
+	<frame source="cryo_chamber_cradle_animation_07.png"></frame>
+	<frame source="cryo_chamber_cradle_animation_06.png"></frame>
+	<frame source="cryo_chamber_cradle_animation_05.png"></frame>
+	<frame source="cryo_chamber_cradle_animation_04.png"></frame>
+	<frame source="cryo_chamber_cradle_animation_03.png"></frame>
+	<frame source="cryo_chamber_cradle_animation_02.png"></frame>
+</animatedImage>

@@ -1,0 +1,7 @@
+<!-- Used in AmbroseComplex: CryoChamber - Zoom Cradle. Put a baby into a bed.-->
+
+<Sound Pan="0.400" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.200" Volume="1.000" FileName="action_Baby-Into-Bed.wav"></CSampleFile>
+        </CSample>
+</Sound>

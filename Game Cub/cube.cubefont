@@ -1,0 +1,4 @@
+<fontscript>
+	<font dynamic="1" gensize="10" name="Default" size="10" source="DejaVuSans.ttf"/>
+    <font dynamic="1" gensize="9" name="SparkDebugFont" size="9" source="Inconsolata_SparkDebug.ttf" gamma="1.0" mono="false" />
+</fontscript>

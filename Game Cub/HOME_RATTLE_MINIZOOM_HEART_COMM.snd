@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="voiceover_It_looks_like_a_heart-shaped_jewel_was_once_set_in_my.wav"></CSampleFile>
+    </CSample>
+</Sound>

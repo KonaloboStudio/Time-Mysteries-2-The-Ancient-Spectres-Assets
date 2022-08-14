@@ -1,0 +1,7 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.400" FileName="menu_item_press.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

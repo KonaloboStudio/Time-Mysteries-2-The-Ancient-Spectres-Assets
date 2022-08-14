@@ -1,0 +1,7 @@
+<!-- Used in Merlin cutscene in Oak Study. Merlin hiding by his face intu tree bark. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="invoked_scenario_Merlin_Hide.wav"></CSampleFile>
+        </CSample>
+</Sound>

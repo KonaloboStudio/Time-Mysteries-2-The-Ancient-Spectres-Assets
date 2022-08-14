@@ -1,0 +1,78 @@
+<AtlasData>
+	<AtlasPack>
+		<AtlasTexture filename="Game_ru0_hud_0_0.stex" atlas_width="256" atlas_height="256">
+			<Texture filename="minizoom_mansion_front_door_plauqe.png" left="4" right="164" top="4" bottom="164" flipped="false" uni_width="256" uni_height="256" atlas_width="256" atlas_height="256"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture filename="Game_ru0_shared_tm2.theGame.InGame_SE.Mansion_0.stex" atlas_width="64" atlas_height="64">
+			<Texture filename="location_mansion_front_door_1850_creepyex_localize.png" left="4" right="45" top="4" bottom="40" flipped="false" uni_width="66" uni_height="58" atlas_width="64" atlas_height="64"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture filename="Game_ru0_tm2.theGame.InGame_SE.Home.Present.PC_Home.HO_On_Desk_0.stex" atlas_width="128" atlas_height="128">
+			<Texture filename="ho_lab_01kgofsalt_weight.png" left="4" right="62" top="4" bottom="45" flipped="true" uni_width="56" uni_height="79" atlas_width="128" atlas_height="128"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture filename="Game_ru0_tm2.theGame.InGame_SE.Mansion.Present.Left_Wing.Crystal_Hall.Splashscreen_0.stex" atlas_width="256" atlas_height="256">
+			<Texture filename="ptd_end_of_demo_text.png" left="4" right="220" top="4" bottom="92" flipped="false" uni_width="346" uni_height="142" atlas_width="256" atlas_height="256"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture filename="Game_ru0_tm2.theGame.InGame_SE.Mansion.Present.Outside.Fountain_0.stex" atlas_width="256" atlas_height="256">
+			<Texture filename="pram_minizoom_localize.png" left="4" right="160" top="4" bottom="97" flipped="true" uni_width="150" uni_height="250" atlas_width="256" atlas_height="256"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture filename="Game_ru0_tm2.theGame.MainMenu.DialogsCE_0.stex" atlas_width="512" atlas_height="512">
+			<Texture filename="main_menu_extras_collectors_edition.png" left="4" right="292" top="4" bottom="124" flipped="false" uni_width="461" uni_height="192" atlas_width="512" atlas_height="512"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture filename="Game_ru0_tm2.theGame.MainMenu.MainMenu_0.stex" atlas_width="256" atlas_height="256">
+			<Texture filename="sequel_button.png" left="4" right="129" top="4" bottom="72" flipped="false" uni_width="201" uni_height="110" atlas_width="256" atlas_height="256"/>
+			<Texture filename="sequel_button_over.png" left="4" right="129" top="80" bottom="148" flipped="false" uni_width="201" uni_height="110" atlas_width="256" atlas_height="256"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture filename="Game_ru3_shared_cutscene.tm2.theGame_0.stex" atlas_width="512" atlas_height="512">
+			<Texture filename="logo_tm2_local.png" left="4" right="374" top="4" bottom="141" flipped="false" uni_width="592" uni_height="220" atlas_width="512" atlas_height="512"/>
+			<Texture filename="main_menu_title_CE.png" left="4" right="324" top="152" bottom="175" flipped="false" uni_width="512" uni_height="38" atlas_width="512" atlas_height="512"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture filename="Game_ru3_shared_tm2.theGame_0.stex" atlas_width="256" atlas_height="256">
+			<Texture filename="ptd_info_butt.png" left="4" right="77" top="4" bottom="67" flipped="false" uni_width="118" uni_height="102" atlas_width="256" atlas_height="256"/>
+			<Texture filename="ptd_info_butt_on.png" left="88" right="161" top="4" bottom="67" flipped="false" uni_width="118" uni_height="102" atlas_width="256" atlas_height="256"/>
+			<Texture filename="ptd_info_butt_over.png" left="172" right="245" top="4" bottom="68" flipped="false" uni_width="118" uni_height="103" atlas_width="256" atlas_height="256"/>
+			<Texture filename="location_fountain_localize.png" left="4" right="139" top="76" bottom="114" flipped="false" uni_width="217" uni_height="61" atlas_width="256" atlas_height="256"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture filename="Game_ru3_shared_tm2.theGame.MainMenu_0.stex" atlas_width="128" atlas_height="128">
+			<Texture filename="discount_blank_nftd_2_local.png" left="4" right="104" top="4" bottom="85" flipped="true" uni_width="130" uni_height="161" atlas_width="128" atlas_height="128"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture filename="Game_ru3_tm2.theGame.ClubExternal_0.stex" atlas_width="256" atlas_height="256">
+			<Texture filename="club_bq_myaccount.png" left="4" right="240" top="4" bottom="81" flipped="false" uni_width="378" uni_height="124" atlas_width="256" atlas_height="256"/>
+			<Texture filename="club_bq_discount_vertical_local.png" left="4" right="114" top="92" bottom="169" flipped="true" uni_width="124" uni_height="176" atlas_width="256" atlas_height="256"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture filename="Game_ru3_tm2.theGame.InGame_SE.Mansion.Present.Left_Wing.Crystal_Hall_0.stex" atlas_width="256" atlas_height="256">
+			<Texture filename="mini_zoom_crystal_hall_fire_background.png" left="4" right="163" top="4" bottom="162" flipped="false" uni_width="255" uni_height="254" atlas_width="256" atlas_height="256"/>
+		</AtlasTexture>
+	</AtlasPack>
+	<AtlasPack>
+		<AtlasTexture filename="Game_ru3_tm2.theGame.MainMenu.MainMenu_0.stex" atlas_width="256" atlas_height="256">
+			<Texture filename="ambutton_more_games_local.png" left="4" right="180" top="4" bottom="73" flipped="false" uni_width="283" uni_height="111" atlas_width="256" atlas_height="256"/>
+			<Texture filename="ambutton_more_games_over_local.png" left="4" right="180" top="84" bottom="153" flipped="false" uni_width="283" uni_height="111" atlas_width="256" atlas_height="256"/>
+			<Texture filename="ambutton_newsletter_local.png" left="4" right="177" top="164" bottom="232" flipped="false" uni_width="277" uni_height="109" atlas_width="256" atlas_height="256"/>
+		</AtlasTexture>
+		<AtlasTexture filename="Game_ru3_tm2.theGame.MainMenu.MainMenu_1.stex" atlas_width="256" atlas_height="256">
+			<Texture filename="ambutton_newsletter_over_local.png" left="4" right="177" top="4" bottom="72" flipped="false" uni_width="277" uni_height="109" atlas_width="256" atlas_height="256"/>
+		</AtlasTexture>
+	</AtlasPack>
+</AtlasData>

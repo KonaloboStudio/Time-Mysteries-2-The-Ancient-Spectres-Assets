@@ -1,0 +1,7 @@
+<!-- Used in Meadow: Inside - zoom cauldron. Leak the couldron product - a kind of hot liquid metal - in form.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="invoked_scenario_Hot_Substance_To_Form.wav"></CSampleFile>
+        </CSample>
+</Sound>

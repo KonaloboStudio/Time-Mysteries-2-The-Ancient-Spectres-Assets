@@ -1,0 +1,7 @@
+<!-- Used in Crystal Study. When magic book in desk is opened for the first time. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+        <CSample>
+           <CSampleFile Pan="0.000"  Pitch="0.800" Volume="1.000" FileName="invoked_scenario_Magic_Book_Change.wav"></CSampleFile>
+        </CSample>
+</Sound>

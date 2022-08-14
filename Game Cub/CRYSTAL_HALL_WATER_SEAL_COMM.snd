@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="voiceover_A_place_for_a_seal_with_a_symbol_of.wav"></CSampleFile>
+    </CSample>
+</Sound>

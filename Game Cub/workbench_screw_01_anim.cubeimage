@@ -1,0 +1,5 @@
+<animatedImage fps="10.00" blendframes="0">
+	<frame source="workbench_screw_01_frame_01.png" ></frame>
+	<frame source="workbench_screw_01_frame_02.png" ></frame>
+	<frame source="workbench_screw_01_on_place.png" ></frame>
+</animatedImage>

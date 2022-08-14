@@ -1,0 +1,9 @@
+<!-- Used in Mansion: Fountain. Silent sound of water in the fountain. -->
+
+<Sound Pan="-0.400" Pitch="1.000" Volume="1.000" Looped="true" Ambient="true">
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true" FadeInTime="1.000" FileName="ambient_add_water_in_fountain.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

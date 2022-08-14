@@ -1,0 +1,18 @@
+<!-- Used in AmbroseComplex: Cave. Watter drops constantly.-->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="true" Ambient="true">
+    <CRandomContainer DelayMin="2" DelayMax="4">
+		<CSample>
+			<CSampleFile Pan="0.000" Pitch="1.000" Volume="0.500" 
+FileName="ambient_cave-water-drops_1.wav"></CSampleFile>
+		</CSample>
+		<CSample>
+			<CSampleFile Pan="0.000" Pitch="1.000" Volume="0.500" 
+FileName="ambient_cave-water-drops_2.wav"></CSampleFile>
+		</CSample>
+		<CSample>
+			<CSampleFile Pan="0.000" Pitch="1.000" Volume="0.500" 
+FileName="ambient_cave-water-drops_3.wav"></CSampleFile>
+		</CSample>
+	</CRandomContainer>
+</Sound>

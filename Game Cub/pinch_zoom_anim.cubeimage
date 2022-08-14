@@ -1,0 +1,10 @@
+<animatedImage fps="2" blendframes="0">
+	<frame source="pinch_zoom_anim_stage1.png"></frame>
+	<frame source="pinch_zoom_anim_stage2.png"></frame>
+	<frame source="pinch_zoom_anim_stage3.png"></frame>
+	<frame source="pinch_zoom_anim_stage3.png"></frame>
+	<frame source="pinch_zoom_anim_stage3.png"></frame>
+	<frame source="pinch_zoom_anim_stage3.png"></frame>
+	<frame source="pinch_zoom_anim_stage2.png"></frame>
+	<frame source="pinch_zoom_anim_stage1.png"></frame>
+</animatedImage>

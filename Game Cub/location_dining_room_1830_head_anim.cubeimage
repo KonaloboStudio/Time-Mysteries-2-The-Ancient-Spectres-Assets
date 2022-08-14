@@ -1,0 +1,8 @@
+<animatedImage fps="10.00" blendframes="0">
+	<frame source="location_dining_room_1830_head_anim_01.png" top="0.00000" bottom="1.00000" left="0.00000" right="0.16666"></frame>
+	<frame source="location_dining_room_1830_head_anim_01.png" top="0.00000" bottom="1.00000" left="0.16666" right="0.33333"></frame>
+	<frame source="location_dining_room_1830_head_anim_01.png" top="0.00000" bottom="1.00000" left="0.33333" right="0.50000"></frame>
+	<frame source="location_dining_room_1830_head_anim_01.png" top="0.00000" bottom="1.00000" left="0.50000" right="0.66666"></frame>
+	<frame source="location_dining_room_1830_head_anim_01.png" top="0.00000" bottom="1.00000" left="0.66666" right="0.83333"></frame>
+	<frame source="location_dining_room_1830_head_anim_01.png" top="0.00000" bottom="1.00000" left="0.83333" right="1.00000"></frame>
+</animatedImage>

@@ -1,0 +1,7 @@
+<!-- Used in Governess House. Using mortar to cruch same chalk. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Governess_HO_Mortar.wav"></CSampleFile>
+    </CSample>
+</Sound>

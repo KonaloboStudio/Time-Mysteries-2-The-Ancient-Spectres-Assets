@@ -1,0 +1,8 @@
+<!-- Used in AmbroseComplex: Laboratory. Quiet sounds of working machines.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true" Ambient="true">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" 
+FileName="ambient_laboratory-machines.wav"></CSampleFile>
+        </CSample>
+</Sound>

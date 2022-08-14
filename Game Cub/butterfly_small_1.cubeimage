@@ -1,0 +1,20 @@
+<animatedImage fps="70.00" blendframes="0">
+	<frame source="butterfly_anim_01_frame_1.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+	<frame source="butterfly_anim_01_frame_2.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+	<frame source="butterfly_anim_01_frame_3.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+	<frame source="butterfly_anim_01_frame_4.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+	<frame source="butterfly_anim_01_frame_5.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+	<frame source="butterfly_anim_01_frame_6.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+	<frame source="butterfly_anim_01_frame_7.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+	<frame source="butterfly_anim_01_frame_8.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+	<frame source="butterfly_anim_01_frame_9.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+	<frame source="butterfly_anim_01_frame_10.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+	<frame source="butterfly_anim_01_frame_9.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+	<frame source="butterfly_anim_01_frame_8.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+	<frame source="butterfly_anim_01_frame_7.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+	<frame source="butterfly_anim_01_frame_6.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+	<frame source="butterfly_anim_01_frame_5.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+	<frame source="butterfly_anim_01_frame_4.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+	<frame source="butterfly_anim_01_frame_3.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+	<frame source="butterfly_anim_01_frame_2.png" top="0.00000" bottom="1.00000" left="0.00000" right="1.00000"></frame>
+</animatedImage>

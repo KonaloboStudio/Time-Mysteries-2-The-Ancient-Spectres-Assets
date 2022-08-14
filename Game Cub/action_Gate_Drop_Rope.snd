@@ -1,0 +1,7 @@
+<!-- Used in Mansion Gate. Used when the player uses an umbrella on a rope tangled in tree branches to drop it.. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="0.800" Volume="1.000" FileName="action_Gate_Drop_Rope.wav"></CSampleFile>
+    </CSample>
+</Sound>

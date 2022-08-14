@@ -1,0 +1,9 @@
+<!-- Used in Mansion: Nursery. Hiss of fading a fire. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true" Ambient="true">
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true" FadeInTime="1.000" FileName="ambient_add_hiss_fire.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

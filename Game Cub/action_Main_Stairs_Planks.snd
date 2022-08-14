@@ -1,0 +1,7 @@
+<!-- Used in Main Stairs. Placing planks over a gap -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.400" Pitch="1.000" Volume="1.000" FileName="action_main_stairs_planks.wav"></CSampleFile>
+    </CSample>
+</Sound>

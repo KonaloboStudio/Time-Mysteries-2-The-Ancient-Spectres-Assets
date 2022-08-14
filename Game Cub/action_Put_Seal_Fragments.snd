@@ -1,0 +1,7 @@
+<!-- Used in Machine Room (mr1). Sound of puting seal fragments. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.300" Volume="1.000" FileName="action_Put_Seal_Fragments.wav"></CSampleFile>
+    </CSample>
+</Sound>

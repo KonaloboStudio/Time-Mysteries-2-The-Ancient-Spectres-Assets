@@ -1,0 +1,7 @@
+<!-- Used in Workshop 1410. Sound of sheet move. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="0.900" Volume="1.000" FileName="action_Sheet_Move.wav"></CSampleFile>
+    </CSample>
+</Sound>

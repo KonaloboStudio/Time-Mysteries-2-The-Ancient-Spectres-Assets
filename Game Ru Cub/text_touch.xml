@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Me</Author>
+  <LastAuthor>Me</LastAuthor>
+  <Created>2000-01-01T06:00:00Z</Created>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="238" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Arkusz1">
+  <Table ss:ExpandedRowCount="51" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="200.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="500.25"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_1</Data></Cell>
+    <Cell><Data ss:Type="String">Вы можете взаимодействовать с предметом. Попробуйте открыть дверь.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_1A</Data></Cell>
+    <Cell><Data ss:Type="String">Нажмите на дверь.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_2</Data></Cell>
+    <Cell><Data ss:Type="String">Если вы заметили кого-либо, вы можете попробовать с ними поговорить.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_2A</Data></Cell>
+    <Cell><Data ss:Type="String">Нажмите на персонаж.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_3</Data></Cell>
+    <Cell><Data ss:Type="String">Некоторые предметы можно брать. Возьмите посылку сейчас.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_3A</Data></Cell>
+    <Cell><Data ss:Type="String">Нажмите на посылку.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_4A</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_GESTURE_6</Data></Cell>
+    <Cell><Data ss:Type="String">Сначала нажмите на дверь.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_GESTURE_7</Data></Cell>
+    <Cell><Data ss:Type="String">Нажмите на блестящие места.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CUTSCENE_CLICK_CONTINUE</Data></Cell>
+    <Cell><Data ss:Type="String">Нажмите, чтобы продолжить.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HELP_TAP_2</Data></Cell>
+    <Cell><Data ss:Type="String">Вы можете взаимодействовать с окружающим миром с помощью нажатий.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HELP_TAP_OPEN</Data></Cell>
+    <Cell><Data ss:Type="String">Нажмите на ручку, чтобы открыть дверь. Нажмите на персонаж, чтобы поговорить.\nНажимайте на все, чтобы проверить реакцию.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HELP_ZOOM_HO</Data></Cell>
+    <Cell><Data ss:Type="String">Вы можете увеличить предмет, касаясь экрана своими указательным и большим пальцами. Посмотрите анимацию.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_GESTURE_1</Data></Cell>
+    <Cell><Data ss:Type="String">Вы можете перемещаться между местами с помощью касаний.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_GESTURE_1A</Data></Cell>
+    <Cell><Data ss:Type="String">Сначала нажмите на дверь.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_GESTURE_2</Data></Cell>
+    <Cell><Data ss:Type="String">Нажмите еще раз там, где появилась стрелка навигации.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_GESTURE_3</Data></Cell>
+    <Cell><Data ss:Type="String">Вы можете увеличить предмет, касаясь экрана указательным и большим пальцами.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_GESTURE_3A</Data></Cell>
+    <Cell><Data ss:Type="String">Сведите пальцы, чтобы изменить масштаб.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_GESTURE_4</Data></Cell>
+    <Cell><Data ss:Type="String">Вы можете перелистывать страницы дневника с помощью жеста горизонтального смахивания.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_GESTURE_4A</Data></Cell>
+    <Cell><Data ss:Type="String">Чтобы перевернуть страницу, проведите пальцем вправо или влево.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_GESTURE_5</Data></Cell>
+    <Cell><Data ss:Type="String">Если вы не можете решить головоломку, вы можете нажать кнопку ПРОПУСК после ее активации.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_GESTURE_5A</Data></Cell>
+    <Cell><Data ss:Type="String">Нажмите, чтобы продолжить.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_GESTURE_8</Data></Cell>
+    <Cell><Data ss:Type="String">Коснитесь экрана,чтобы выбрать место, куда вы хотите переместиться.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_GESTURE_9</Data></Cell>
+    <Cell><Data ss:Type="String">Восклицательный знак означает, что там есть задание. Нажмите на него.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HELP_TAP_MOVE</Data></Cell>
+    <Cell><Data ss:Type="String">Появление пульсирующей стрелки означает, что вы нашли проход в другое место. Нажмите стрелку еще раз, чтобы туда попасть.\nЧтобы вернуться, достаточно коснуться нижней части экрана.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HELP_DIARY_NOTES</Data></Cell>
+    <Cell><Data ss:Type="String">Нажмите на вкладку Записи, чтобы просмотреть записи в дневнике.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HELP_DIARY_OBJECTIVES</Data></Cell>
+    <Cell><Data ss:Type="String">Нажмите на вкладку Задачи, чтобы увидеть все ваши задания. Те, что уже выполнены, будут отмечены.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MAIN_MENU_NOT_YOU</Data></Cell>
+    <Cell><Data ss:Type="String">Если это не вы, нажмите здесь.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PTD_HELP_PREVIEW</Data></Cell>
+    <Cell><Data ss:Type="String">Показывает пункт назначения. Нажмите, чтобы переместиться.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_12</Data></Cell>
+    <Cell><Data ss:Type="String">Нажмите ОК, чтобы продолжить игру.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_13</Data></Cell>
+    <Cell><Data ss:Type="String">В этой игре вам придется собирать группы из трех и более. Нажмите на самоцветы в этом углу.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_14</Data></Cell>
+    <Cell><Data ss:Type="String">Вы нашли машину времени! Нажмите здесь, чтобы получить к ней доступ.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_16</Data></Cell>
+    <Cell><Data ss:Type="String">Чтобы выбрать место, куда вы хотите отправиться, нажмите на него.\nВосклицательный знак означает, что там есть работа.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_17</Data></Cell>
+    <Cell><Data ss:Type="String">Если комната серая, со знаком вопроса, то вы еще не посещали ее, и не можете переместиться туда, не сделав этого.\nНажмите, чтобы продолжить.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_18</Data></Cell>
+    <Cell><Data ss:Type="String">Для того, чтобы переместиться в выбранное время и место, нажмите на экран предварительного просмотра.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_19</Data></Cell>
+    <Cell><Data ss:Type="String">Чтобы взять золотую шестеренку, вы должны нажать на группу рядом с ней.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_5</Data></Cell>
+    <Cell><Data ss:Type="String">Иногда вам нужно будет рассмотреть что-нибудь поближе. На это укажет лупа. Нажмите на эту посылку.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_9</Data></Cell>
+    <Cell><Data ss:Type="String">Если вы застряли, используйте помощь, чтобы найти предмет.\n\n\nНажмите, чтобы продолжить.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_PTD_TEXT_4</Data></Cell>
+    <Cell><Data ss:Type="String">Восклицательный знак указывает на что-то важное. Давайте нажмем на эту комнату.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_11</Data></Cell>
+    <Cell><Data ss:Type="String">Сонар может показать вам форму каждого предмета. Просто наведите указатель мыши на название.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HELP_TAP</Data></Cell>
+    <Cell><Data ss:Type="String">Кроме того, индикатор касания появится в том месте, на которое вы нажали.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HELP_TAP_MISSTAP</Data></Cell>
+    <Cell><Data ss:Type="String">Другой индикатор касания появится, если предмет поиска не найден.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HELP_TAP_TITLE</Data></Cell>
+    <Cell><Data ss:Type="String">Навигация</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">HELP_PTD_MAIN</Data></Cell>
+    <Cell><Data ss:Type="String">Получив ПМВ, вы можете получить к ней доступ, нажав на кнопку в правом нижнем углу экрана.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PLAYING_MODE_REGULAR_D</Data></Cell>
+    <Cell><Data ss:Type="String">Многочисленные клики на сценах поиска предметов штрафуются.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PLAYING_MODE_EXPERT_D</Data></Cell>
+    <Cell><Data ss:Type="String">Многочисленные клики на сценах поиска предметов разрешены.  </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CE_PTD_EMERGENCY_MESSAGE</Data></Cell>
+    <Cell><Data ss:Type="String">Аварийный режим ВКЛЮЧЕН\nНажмите куда угодно, чтобы переместиться в безопасное место.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">MATCHMANY_HELP_TEXT_5</Data></Cell>
+    <Cell><Data ss:Type="String">Нажмите кнопку Перемешать, если поиск больше ничего не дает.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PTD_BUTTONS_MANSION</Data></Cell>
+    <Cell><Data ss:Type="String">Нажмите, чтобы изменить место и время.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PTD_BUTTONS_VENICE</Data></Cell>
+    <Cell><Data ss:Type="String">Нажмите, чтобы изменить место и время.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TUTORIAL_BACKSWITCHER</Data></Cell>
+    <Cell><Data ss:Type="String">В предыдущую локацию можно вернуться, коснувшись нижней части экрана и появившейся стрелки направления.\n\nКоснись в любом месте для продолжения.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

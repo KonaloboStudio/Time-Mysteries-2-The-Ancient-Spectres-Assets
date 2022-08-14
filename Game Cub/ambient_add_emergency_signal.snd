@@ -1,0 +1,9 @@
+<!-- Used in PTD. High-pitched emergency signal. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true" Ambient="true">
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.050" Volume="1.000" Looped="true" FadeInTime="1.000" FileName="ambient_add_emergency_signal.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

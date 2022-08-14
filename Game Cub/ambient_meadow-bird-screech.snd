@@ -1,0 +1,8 @@
+<!-- Used in Meadow: Cottage - zoom nest. Sound of small bird screech.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true" Ambient="true">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" 
+FileName="ambient_meadow-bird-screech.wav"></CSampleFile>
+        </CSample>
+</Sound>

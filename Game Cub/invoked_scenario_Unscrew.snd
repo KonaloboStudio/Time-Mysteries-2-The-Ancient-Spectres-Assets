@@ -1,0 +1,7 @@
+<!-- Used in Lumber Room 1796. Sound of pressing grapes (make a wine). -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.300" Volume="1.000" FileName="invoked_scenario_Screw.wav"></CSampleFile>
+    </CSample>
+</Sound>

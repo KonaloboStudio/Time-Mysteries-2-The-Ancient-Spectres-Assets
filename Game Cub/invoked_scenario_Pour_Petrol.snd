@@ -1,0 +1,9 @@
+<!-- Used in Machine Room 1830 . Sound of pouring petrol wood. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer Delay="1.600">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.800" FileName="invoked_scenario_Pour_Petrol.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

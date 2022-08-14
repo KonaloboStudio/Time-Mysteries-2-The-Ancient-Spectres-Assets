@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="GARDEN_1410_SOIL_ZOOM_SOIL_COMM.wav"></CSampleFile>
+    </CSample>
+</Sound>

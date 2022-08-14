@@ -1,0 +1,7 @@
+<!-- Used in Lumber Room 1830. Axe hiting a wooden wardrobe. Used three times. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.200" Volume="0.800" FileName="action_Axe_Hit_Wardrobe.wav"></CSampleFile>
+    </CSample>
+</Sound>

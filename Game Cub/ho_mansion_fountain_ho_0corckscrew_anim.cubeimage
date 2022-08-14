@@ -1,0 +1,10 @@
+<animatedImage fps="10.00" blendframes="0">
+	<frame source="ho_mansion_fountain_01t_ho_0corkscrew01.png" ></frame>
+	<frame source="ho_mansion_fountain_01t_ho_0corkscrew02.png" ></frame>
+	<frame source="ho_mansion_fountain_01t_ho_0corkscrew03.png" ></frame>
+	<frame source="ho_mansion_fountain_01t_ho_0corkscrew04.png" ></frame>
+	<frame source="ho_mansion_fountain_01t_ho_0corkscrew05.png" ></frame>
+	<frame source="ho_mansion_fountain_01t_ho_0corkscrew06.png" ></frame>
+	<frame source="ho_mansion_fountain_01t_ho_0corkscrew07.png" ></frame>
+	<frame source="ho_mansion_fountain_01t_ho_0corkscrew08.png" ></frame>
+</animatedImage>

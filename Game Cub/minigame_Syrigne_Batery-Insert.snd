@@ -1,0 +1,8 @@
+<!-- Used in MG: Syrigne. Put a battery into slot.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.600" 
+FileName="minigame_Syrigne_Batery-Insert.wav"></CSampleFile>
+        </CSample>
+</Sound>

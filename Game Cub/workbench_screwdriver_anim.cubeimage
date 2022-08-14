@@ -1,0 +1,8 @@
+<animatedImage fps="20.00" blendframes="0">
+	<frame source="workbench_screwdriver_frame_01.png" ></frame>
+	<frame source="workbench_screwdriver_frame_02.png" ></frame>
+	<frame source="workbench_screwdriver_frame_01.png" ></frame>
+	<frame source="workbench_screwdriver_frame_02.png" ></frame>
+	<frame source="workbench_screwdriver_frame_01.png" ></frame>
+	<frame source="workbench_screwdriver_frame_02.png" ></frame>
+</animatedImage>

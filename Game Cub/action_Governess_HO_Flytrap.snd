@@ -1,0 +1,7 @@
+<!-- Used in Governess House. Sound of opening of flytrap mouth. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.500" Volume="0.800" FileName="action_Governess_HO_Flytrap.wav"></CSampleFile>
+    </CSample>
+</Sound>

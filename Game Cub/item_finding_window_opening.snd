@@ -1,0 +1,9 @@
+<!-- Played every time when obtain item from HO scene -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.200" Volume="0.600" FileName="item_finding_window_opening.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

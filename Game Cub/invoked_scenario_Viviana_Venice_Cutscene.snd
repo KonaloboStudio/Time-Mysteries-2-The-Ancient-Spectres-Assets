@@ -1,0 +1,7 @@
+<!-- Used in Vivana Eyes cutscene on first enter Venice 1410. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="invoked_scenario_Viviana_Venice_Cutscene.wav"></CSampleFile>
+        </CSample>
+</Sound>

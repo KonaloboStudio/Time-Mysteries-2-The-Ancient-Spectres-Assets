@@ -1,0 +1,12 @@
+<animatedImage fps="7.00" blendframes="0">
+	<frame source="zoom_nest_swallow_move_1.png"></frame>
+	<frame source="zoom_nest_swallow_move_2.png"></frame>
+	<frame source="zoom_nest_swallow_move_1.png"></frame>
+	<frame source="zoom_nest_swallow_move_3.png"></frame>
+	<frame source="zoom_nest_swallow_move_3.png"></frame>
+	<frame source="zoom_nest_swallow_move_3.png"></frame>
+	<frame source="zoom_nest_swallow_move_4.png"></frame>
+	<frame source="zoom_nest_swallow_move_3.png"></frame>
+	<frame source="zoom_nest_swallow_move_3.png"></frame>
+	<frame source="zoom_nest_swallow_move_1.png"></frame>
+</animatedImage>

@@ -1,0 +1,17 @@
+<animatedImage fps="15.00" blendframes="0">
+	<frame source="matchmany_water_seal_anim_highlighted_01.png" ></frame>
+	<frame source="matchmany_water_seal_anim_highlighted_02.png" ></frame>
+	<frame source="matchmany_water_seal_anim_highlighted_03.png" ></frame>
+	<frame source="matchmany_water_seal_anim_highlighted_04.png" ></frame>
+	<frame source="matchmany_water_seal_anim_highlighted_05.png" ></frame>
+	<frame source="matchmany_water_seal_anim_highlighted_06.png" ></frame>
+	<frame source="matchmany_water_seal_anim_highlighted_07.png" ></frame>
+	<frame source="matchmany_water_seal_anim_highlighted_08.png" ></frame>
+	<frame source="matchmany_water_seal_anim_highlighted_07.png" ></frame>
+	<frame source="matchmany_water_seal_anim_highlighted_06.png" ></frame>
+	<frame source="matchmany_water_seal_anim_highlighted_05.png" ></frame>
+	<frame source="matchmany_water_seal_anim_highlighted_04.png" ></frame>
+	<frame source="matchmany_water_seal_anim_highlighted_03.png" ></frame>
+	<frame source="matchmany_water_seal_anim_highlighted_02.png" ></frame>
+	<frame source="matchmany_water_seal_anim_highlighted_01.png" ></frame>
+</animatedImage>

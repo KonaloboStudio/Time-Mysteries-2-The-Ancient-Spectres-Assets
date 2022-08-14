@@ -1,0 +1,8 @@
+<animatedImage fps="15.00" blendframes="0">
+	<frame source="matchmany_fire_seal_anim_destroy.png" top="0.00000" bottom="0.50000" left="0.00000" right="0.33333"></frame>
+	<frame source="matchmany_fire_seal_anim_destroy.png" top="0.00000" bottom="0.50000" left="0.33333" right="0.66666"></frame>
+	<frame source="matchmany_fire_seal_anim_destroy.png" top="0.00000" bottom="0.50000" left="0.66666" right="1.00000"></frame>
+	<frame source="matchmany_fire_seal_anim_destroy.png" top="0.50000" bottom="1.00000" left="0.00000" right="0.33333"></frame>
+	<frame source="matchmany_fire_seal_anim_destroy.png" top="0.50000" bottom="1.00000" left="0.33333" right="0.66666"></frame>
+	<frame source="matchmany_fire_seal_anim_destroy.png" top="0.50000" bottom="1.00000" left="0.66666" right="1.00000"></frame>
+</animatedImage>

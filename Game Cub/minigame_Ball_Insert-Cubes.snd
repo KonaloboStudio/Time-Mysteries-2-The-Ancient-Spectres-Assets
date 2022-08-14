@@ -1,0 +1,8 @@
+<!-- Used in MG: Ball. Changing a wall color of a cubes.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.400" Volume="1.000" 
+FileName="minigame_Ball_Insert-Cubes.wav"></CSampleFile>
+        </CSample>
+</Sound>

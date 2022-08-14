@@ -1,0 +1,7 @@
+<!-- Used in Machine Room 1796 . Sound of pulling the lever. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+        <CSampleFile Pan="0.000" Pitch="1.200" Volume="1.000" FileName="action_Pull_Lever.wav"></CSampleFile>
+    </CSample>
+</Sound>

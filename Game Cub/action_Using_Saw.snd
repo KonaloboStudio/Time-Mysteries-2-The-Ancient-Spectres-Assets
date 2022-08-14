@@ -1,0 +1,7 @@
+<!-- Used in Main Stairs 1830. Using a small saw on metal bars. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Using_Saw.wav"></CSampleFile>
+        </CSample>
+</Sound>

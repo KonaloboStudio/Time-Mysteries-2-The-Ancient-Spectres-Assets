@@ -1,0 +1,439 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Me</Author>
+  <LastAuthor>Me</LastAuthor>
+  <Created>2000-01-01T06:00:00Z</Created>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="238" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Arkusz1">
+  <Table ss:ExpandedRowCount="97" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="200.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="500.25"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RATEAPP_ALERT_TITLE</Data></Cell>
+    <Cell><Data ss:Type="String">Вам нравится $(json:GAME_TITLE) ?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RATEAPP_ALERT_MESSAGE</Data></Cell>
+    <Cell><Data ss:Type="String">Пожалуйста, найдите время и оставьте оценку в App Store. Ваши отзывы помогают нам создавать новые интересные игры!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RATEAPP_BUTTON_TITLE_CANCEL</Data></Cell>
+    <Cell><Data ss:Type="String">Позже</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RATEAPP_BUTTON_TITLE_RATE</Data></Cell>
+    <Cell><Data ss:Type="String">Оценить!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RATEAPP_URL</Data></Cell>
+    <Cell><Data ss:Type="String">$(json:RATEAPP_URL)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RATEAPP_BUTTON_TITLE_NEVER</Data></Cell>
+    <Cell><Data ss:Type="String">Нет, Спасибо</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_OK</Data></Cell>
+    <Cell><Data ss:Type="String">$(COMMON_OK)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INTERNET_CONNECTION_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается подключиться к интернету.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_NO_INTERNET_CONNECTION_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается подключиться к интернету.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_UNKNOWN_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">$(STORE_NAME) ответил с неизвестной ошибкой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_SERVICE_NOT_AVAILABLE_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">$(STORE_NAME) не установлено, или учетная запись не настроена.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_PURCHASE_COMPLETE_TITLE</Data></Cell>
+    <Cell><Data ss:Type="String">Спасибо</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_PURCHASE_COMPLETE</Data></Cell>
+    <Cell><Data ss:Type="String">Спасибо за обновление!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAYWALL_CONTINUE</Data></Cell>
+    <Cell><Data ss:Type="String">Продолжить</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_CLIENT_NOT_ALLOWED</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается подключиться к магазину.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_PAYMENTS_ARE_RESTRICTED_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">Встроенные покупки не разрешены.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_FAILED_TO_COMPLETE_REQUEST_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается подключиться к магазину.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_NO_SUCH_PRODUCT_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается подключиться к магазину.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_SUCCEEDED</Data></Cell>
+    <Cell><Data ss:Type="String">Заказ выполнен</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_CANCELLED_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">Заказ отменен</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_FAILED_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается завершить покупку.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_INVALID_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">There was an error connecting to the store.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_REMOVED_ERROR</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается завершить покупку.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_RESTORE_COMPLETED</Data></Cell>
+    <Cell><Data ss:Type="String">Восстановление успешно!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_RESTORE_CANCELLED</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается завершить покупку.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_RESTORE_INVALID</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается подключиться к магазину.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_TRANSACTION_RESTORE_FAILED</Data></Cell>
+    <Cell><Data ss:Type="String">Не найдено записей о заказах.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAYWALL_LATER</Data></Cell>
+    <Cell><Data ss:Type="String">[Позже]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAYWALL_PURCHASE_CANCELLED</Data></Cell>
+    <Cell><Data ss:Type="String">Заказ отменен.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAYWALL_PURCHASE_COMPLETE</Data></Cell>
+    <Cell><Data ss:Type="String">Заказ выполнен.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAYWALL_PURCHASE_NOW</Data></Cell>
+    <Cell><Data ss:Type="String">Купить сейчас</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAYWALL_RESTORE_FAIL</Data></Cell>
+    <Cell><Data ss:Type="String">Не найдено записей о заказах.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAYWALL_RESTORE_SUCCESED</Data></Cell>
+    <Cell><Data ss:Type="String">Восстановление успешно!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">COMMON_EMAIL_NOT_CONFIGURED_TITLE</Data></Cell>
+    <Cell><Data ss:Type="String">Не удалось отправить письмо.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">COMMON_EMAIL_NOT_CONFIGURED</Data></Cell>
+    <Cell><Data ss:Type="String">Ваше устройство не настроено для отправки почты.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_PURCHASE_IS_NOT_POSSIBLE_RIGHT_NOW</Data></Cell>
+    <Cell><Data ss:Type="String">Не удается завершить покупку.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_NO_RECORD_OF_PURCHASE_FOUND</Data></Cell>
+    <Cell><Data ss:Type="String">Не найдено записей о заказах.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_TITLE_CHARSET</Data></Cell>
+    <Cell><Data ss:Type="String">qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя !*()_-:&quot;'\/?.,</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_MORE_GAMES</Data></Cell>
+    <Cell><Data ss:Type="String">БОЛЬШЕ ИГР</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_NEWSLETTER_SUBJECT</Data></Cell>
+    <Cell><Data ss:Type="String">Я хочу попробовать больше игр Artifex Mundi</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_NEWSLETTER_MESSAGE</Data></Cell>
+    <Cell><Data ss:Type="String">Сэкономьте 50% и больше на играх Artifex Mundi!\n\nБлагодаря рассылке Artifex Mundi Вы будете первыми узнавать о новых играх, распродажах и специальных акциях.\n\nВы можете отказаться от подписки в любое время, нажав на ссылку Отписаться, находящейся в каждом письме. \n\nОтправив это электронное сообщение, Вы соглашаетесь получать рассылку Artifex Mundi.\nМы уважаем вашу конфиденциальность и никогда не передаем вашу информацию. Наша Политика конфиденциальности: http://www.artifexmundi.com/page/privacy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_NEWSLETTER_MESSAGE_1</Data></Cell>
+    <Cell><Data ss:Type="String">Сэкономьте 50% и больше на играх Artifex Mundi!\nБлагодаря рассылке Artifex Mundi Вы будете первыми узнавать о новых играх, распродажах и специальных акциях.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_NEWSLETTER_MESSAGE_2</Data></Cell>
+    <Cell><Data ss:Type="String">Вы можете отказаться от подписки в любое время, нажав на ссылку Отписаться, находящейся в каждом письме.\n\nОтправив это электронное сообщение, Вы соглашаетесь получать рассылку Artifex Mundi.\nМы уважаем вашу конфиденциальность и никогда не передаем вашу информацию. Наша Политика конфиденциальности: http://www.artifexmundi.com/page/privacy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAYWALL_ALREADY_PAID</Data></Cell>
+    <Cell><Data ss:Type="String">Уже оплачено?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CROSS-PROMO_FOLLOW-US</Data></Cell>
+    <Cell><Data ss:Type="String">Следуйте за нами!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CROSS-PROMO_MORE-GAMES</Data></Cell>
+    <Cell><Data ss:Type="String">Сыграть в другие замечательные приключения от Artifex Mundi</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CROSS-PROMO_PLAY</Data></Cell>
+    <Cell><Data ss:Type="String">Игра</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CROSS-PROMO_FREE</Data></Cell>
+    <Cell><Data ss:Type="String">БЕСПЛАТНО</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">CROSS-PROMO_COMING_SOON</Data></Cell>
+    <Cell><Data ss:Type="String">Уже вскоре</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">INVALID_EMAIL_FORMAT</Data></Cell>
+    <Cell><Data ss:Type="String">Введите адрес электронной почты в формате proverka@example.com.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">COMMON_BUTTON_CANCEL</Data></Cell>
+    <Cell><Data ss:Type="String">Отмена</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">COMMON_BUTTON_OK</Data></Cell>
+    <Cell><Data ss:Type="String">$(COMMON_OK)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">COMMON_OK</Data></Cell>
+    <Cell><Data ss:Type="String">Ok</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">DISCOUNT_PERCENT</Data></Cell>
+    <Cell><Data ss:Type="String">%</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_9CLUES</Data></Cell>
+    <Cell><Data ss:Type="String">9 Улик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_9CLUES_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">Тайна Змеиной Бухты</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_ABBYS</Data></Cell>
+    <Cell><Data ss:Type="String">Бездна</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_ABBYS_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">Духи Эдема</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_CARNIVAL</Data></Cell>
+    <Cell><Data ss:Type="String">Темная тайна</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_CARNIVAL_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">Ярмарка</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_CHARLOT</Data></Cell>
+    <Cell><Data ss:Type="String">Наедине с темнотой</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_CHARLOT_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">Корабль-призрак</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_DRINK</Data></Cell>
+    <Cell><Data ss:Type="String">Clockwork Tales</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_DRINK_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">Of Glass and Ink</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_ENI1</Data></Cell>
+    <Cell><Data ss:Type="String">Энигматис</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_ENI1_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">Призраки Мэйпл Крик</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_ENI2</Data></Cell>
+    <Cell><Data ss:Type="String">Энигматис 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_ENI2_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">Туман Рэйвенвуда</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_NFTD1</Data></Cell>
+    <Cell><Data ss:Type="String">Кошмары из глубин</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_NFTD1_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">Проклятое Сердце</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_NFTD2</Data></Cell>
+    <Cell><Data ss:Type="String">Кошмары из глубин 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_NFTD2_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">Зов Сирены</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_GL1</Data></Cell>
+    <Cell><Data ss:Type="String">Мрачные легенды</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_GL1_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">Проклятая невеста</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_PLAYNOW</Data></Cell>
+    <Cell><Data ss:Type="String">ИГРАТЬ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Увлекательное путешествие с играми от Artifex Mundi!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_MS1</Data></Cell>
+    <Cell><Data ss:Type="String">Mind Snares</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_MS1_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">Alice's Journey</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_NFTD3</Data></Cell>
+    <Cell><Data ss:Type="String">Nightmares from The Deep 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_NFTD3_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">Davy Jones</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STORE_PURCHASES_RESTORED</Data></Cell>
+    <Cell><Data ss:Type="String">Restore&#160;succesed!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TELLAFRIEND_SUBJECT</Data></Cell>
+    <Cell><Data ss:Type="String">Check out $(json:GAME_TITLE) on the $(json:DEVICE_NAME)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TELLAFRIEND_TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">Hey!&lt;br /&gt;&lt;br /&gt; I just played $(json:GAME_TITLE) and thought you should check it out. It's a fantastic game from Big Fish Games!! Follow the link to get it for your $(json:DEVICE_NAME).&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;$(json:url_tellafriend)&quot;&gt;$(json:GAME_TITLE)&lt;/a&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">WEB_BROWSER_ERROR_TEXT_HTML</Data></Cell>
+    <Cell><Data ss:Type="String">Could not connect to the Web!
+Please check your connection settings and try again later.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">RATE_IT</Data></Cell>
+    <Cell><Data ss:Type="String">Оставить Отзыв</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_TM1</Data></Cell>
+    <Cell><Data ss:Type="String">Тайны времени</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_TM1_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">Inheritance</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_TM2</Data></Cell>
+    <Cell><Data ss:Type="String">Тайны времени 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_TM2_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">Древние духи</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_TM3</Data></Cell>
+    <Cell><Data ss:Type="String">Тайны времени 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_TM3_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">Последняя загадка</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_GL2</Data></Cell>
+    <Cell><Data ss:Type="String">Мрачные легенды 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_GL2_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">Song of the Dark Swan</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_9CLUES2</Data></Cell>
+    <Cell><Data ss:Type="String">9 Улик 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_9CLUES2_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">The Ward</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_TOYMAKER</Data></Cell>
+    <Cell><Data ss:Type="String">Deadly Puzzles</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">PAC_DIALOG_GAME_TITLE_TOYMAKER_SUFFIX</Data></Cell>
+    <Cell><Data ss:Type="String">Toymaker</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,8 @@
+<animatedImage fps="15.00" blendframes="0">
+	<frame source="matchmany_water_seal_anim_destroy_01.png" ></frame>
+	<frame source="matchmany_water_seal_anim_destroy_02.png" ></frame>
+	<frame source="matchmany_water_seal_anim_destroy_03.png" ></frame>
+	<frame source="matchmany_water_seal_anim_destroy_04.png" ></frame>
+	<frame source="matchmany_water_seal_anim_destroy_05.png" ></frame>
+	<frame source="matchmany_water_seal_anim_destroy_06.png" ></frame>
+</animatedImage>

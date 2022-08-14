@@ -1,0 +1,9 @@
+<animatedImage fps="15.00" blendframes="0">
+	<frame source="matchmany_love_seal_idle_2_frame_01.png" ></frame>
+	<frame source="matchmany_love_seal_idle_2_frame_02.png" ></frame>
+	<frame source="matchmany_love_seal_idle_2_frame_03.png" ></frame>
+	<frame source="matchmany_love_seal_idle_2_frame_04.png" ></frame>
+	<frame source="matchmany_love_seal_idle_2_frame_03.png" ></frame>
+	<frame source="matchmany_love_seal_idle_2_frame_02.png" ></frame>
+	<frame source="matchmany_love_seal_idle_2_frame_01.png" ></frame>
+</animatedImage>
